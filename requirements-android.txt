@@ -1,0 +1,11 @@
+# Android / Termux local-test requirements.
+# Pillow and cryptography are installed with Termux's native packages.
+fastapi==0.115.12
+pydantic==1.10.27
+uvicorn>=0.30,<1
+python-multipart>=0.0.9
+python-dotenv>=1.0
+qrcode[pil]>=7.4
+pypdf>=5.0
+typing-extensions>=4.6.0
+reportlab>=4.0

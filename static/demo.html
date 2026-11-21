@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="my" data-theme="dark">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0a0e17"><meta name="description" content="PROOF 100 Feature Interactive Demo">
+  <title>PROOF — 100 Feature Demo</title>
+  <link rel="stylesheet" href="/static/demo.css"><script src="/static/demo.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="back" href="/" aria-label="Back to PROOF">←</a>
+    <div class="brand"><span class="mark">P</span><span><b>PROOF</b><small>100 FEATURE DEMO</small></span></div>
+    <div class="top-actions"><span class="mode-pill"><i></i> DEMO MODE</span><button id="themeToggle" class="icon-button" aria-label="Toggle theme">◐</button></div>
+  </header>
+  <main class="shell">
+    <section class="hero panel">
+      <div class="eyebrow">INTERACTIVE FEATURE LAB · V3</div>
+      <h1>100 Features.<br><em>Try them for real.</em></h1>
+      <p>Feature တစ်ခုချင်းစီကို နှိပ်ပြီး စမ်းသပ်ပါ။ Browser ထဲတွင် လုပ်ဆောင်နိုင်သော Demo များကို တကယ်အလုပ်လုပ်စေထားပြီး Server/Admin ခွင့်ပြုချက်လိုသောအရာများကို သီးခြားဖော်ပြထားသည်။</p>
+      <div class="hero-tags"><span>Black & Gold</span><span>Android Ready</span><span>Local Demo Data</span></div>
+      <div class="stats">
+        <div><b id="totalCount">100</b><span>FEATURES</span></div>
+        <div><b id="testedCount">0</b><span>TESTED</span></div>
+        <div><b id="progressCount">0%</b><span>PROGRESS</span></div>
+      </div>
+      <div class="progress-track"><span id="progressBar"></span></div>
+    </section>
+
+    <section class="notice panel">
+      <b>သတိပြုရန် — Demo Environment</b>
+      <p>Demo အချက်အလက်များကို ဒီဖုန်း၏ Browser ထဲတွင် သိမ်းသည်။ Email, Telegram/Viber Bot, SMS, Cloud Backup နှင့် Production Server ချိတ်ဆက်မှုများသည် သက်ဆိုင်ရာ API Key / SMTP / Hosting သတ်မှတ်ပြီးမှ Live ဖြစ်မည်။ Screenshot ကို Browser မှ လုံးဝတားဆီး၍ မရပါ။</p>
+    </section>
+
+    <section class="toolbar panel">
+      <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Feature နာမည် / အမှတ်စဉ် ရှာရန်"></label>
+      <div class="filters">
+        <select id="groupFilter" aria-label="Filter category"><option value="all">အမျိုးအစားအားလုံး</option></select>
+        <select id="stateFilter" aria-label="Filter test status"><option value="all">အားလုံး</option><option value="tested">စမ်းပြီး</option><option value="untested">မစမ်းရသေး</option></select>
+      </div>
+      <div class="toolbar-bottom"><span id="resultCount">100 features</span><button id="resetDemo" class="text-button">Demo Data Reset</button></div>
+    </section>
+
+    <section class="category-strip" id="categoryStrip"></section>
+    <section class="feature-grid" id="featureGrid" aria-live="polite"></section>
+
+    <footer class="footer panel">
+      <div><b>PROOF V3</b><span>Secure Accountability Platform · Feature Demo</span></div>
+      <a href="/">Portal သို့ ပြန်သွားရန် ↗</a>
+    </footer>
+  </main>
+
+  <div class="modal" id="featureModal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-head"><div><span id="modalNumber" class="number-pill">01</span><div class="eyebrow" id="modalGroup">FEATURE</div><h2 id="modalTitle">Feature</h2></div><button class="icon-button close" id="closeModal" aria-label="Close">×</button></div>
+      <p id="modalDescription" class="muted"></p>
+      <div id="modalInputArea" class="input-area"></div>
+      <div class="modal-actions"><button class="btn secondary" id="cancelFeature">ပိတ်ရန်</button><button class="btn primary" id="runFeature">စမ်းသပ်မည် ↗</button></div>
+      <div id="featureOutput" class="output" hidden aria-live="polite"></div>
+      <div class="demo-label">DEMO ACTION · REAL BROWSER INTERACTION</div>
+    </div>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

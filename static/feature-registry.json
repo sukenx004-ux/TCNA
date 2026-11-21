@@ -1,0 +1,6131 @@
+{
+  "version": "V3.1+ Complete All Features Registry",
+  "count": 875,
+  "features": [
+    {
+      "id": 1,
+      "group": "Security / Privacy",
+      "title": "Passwordless Login",
+      "desc": "Passwordless Login workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 2,
+      "group": "Security / Privacy",
+      "title": "Passkey / Biometric Login",
+      "desc": "Passkey / Biometric Login workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 3,
+      "group": "Security / Privacy",
+      "title": "Login Approval",
+      "desc": "Login Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 4,
+      "group": "Security / Privacy",
+      "title": "Trusted Device Management",
+      "desc": "Trusted Device Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 5,
+      "group": "Security / Privacy",
+      "title": "Device Revocation",
+      "desc": "Device Revocation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 6,
+      "group": "Security / Privacy",
+      "title": "Session Management",
+      "desc": "Session Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 7,
+      "group": "Security / Privacy",
+      "title": "Active Session Viewer",
+      "desc": "Active Session Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 8,
+      "group": "Security / Privacy",
+      "title": "Security Risk Score",
+      "desc": "Security Risk Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 9,
+      "group": "Security / Privacy",
+      "title": "Suspicious Login Detection",
+      "desc": "Suspicious Login Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 10,
+      "group": "Security / Privacy",
+      "title": "Brute-force Protection",
+      "desc": "Brute-force Protection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 11,
+      "group": "Security / Privacy",
+      "title": "CAPTCHA / Bot Protection",
+      "desc": "CAPTCHA / Bot Protection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 12,
+      "group": "Security / Privacy",
+      "title": "API Key Management",
+      "desc": "API Key Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 13,
+      "group": "Security / Privacy",
+      "title": "API Token Expiration",
+      "desc": "API Token Expiration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 14,
+      "group": "Security / Privacy",
+      "title": "Permission Matrix",
+      "desc": "Permission Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 15,
+      "group": "Security / Privacy",
+      "title": "Field-level Permission",
+      "desc": "Field-level Permission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 16,
+      "group": "Security / Privacy",
+      "title": "Evidence-level Permission",
+      "desc": "Evidence-level Permission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 17,
+      "group": "Security / Privacy",
+      "title": "Case-level Permission",
+      "desc": "Case-level Permission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 18,
+      "group": "Security / Privacy",
+      "title": "IP Allowlist",
+      "desc": "IP Allowlist workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 19,
+      "group": "Security / Privacy",
+      "title": "Maintenance Lock Mode",
+      "desc": "Maintenance Lock Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 20,
+      "group": "Security / Privacy",
+      "title": "Emergency Account Lock",
+      "desc": "Emergency Account Lock workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 21,
+      "group": "User / Team Management",
+      "title": "User Management",
+      "desc": "User Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 22,
+      "group": "User / Team Management",
+      "title": "Team Management",
+      "desc": "Team Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 23,
+      "group": "User / Team Management",
+      "title": "Department Management",
+      "desc": "Department Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 24,
+      "group": "User / Team Management",
+      "title": "Custom Roles",
+      "desc": "Custom Roles workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 25,
+      "group": "User / Team Management",
+      "title": "Custom Permissions",
+      "desc": "Custom Permissions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 26,
+      "group": "User / Team Management",
+      "title": "User Status",
+      "desc": "User Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 27,
+      "group": "User / Team Management",
+      "title": "User Profile",
+      "desc": "User Profile workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 28,
+      "group": "User / Team Management",
+      "title": "Avatar / Profile Photo",
+      "desc": "Avatar / Profile Photo workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 29,
+      "group": "User / Team Management",
+      "title": "User Activity Timeline",
+      "desc": "User Activity Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 30,
+      "group": "User / Team Management",
+      "title": "Team Workload Dashboard",
+      "desc": "Team Workload Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 31,
+      "group": "User / Team Management",
+      "title": "Case Reassignment",
+      "desc": "Case Reassignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 32,
+      "group": "User / Team Management",
+      "title": "Reviewer Rotation",
+      "desc": "Reviewer Rotation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 33,
+      "group": "User / Team Management",
+      "title": "Approval Chain",
+      "desc": "Approval Chain workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 34,
+      "group": "User / Team Management",
+      "title": "Multi-level Approval",
+      "desc": "Multi-level Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 35,
+      "group": "User / Team Management",
+      "title": "Delegation Mode",
+      "desc": "Delegation Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 36,
+      "group": "Case Management",
+      "title": "Case Number Generator",
+      "desc": "Case Number Generator workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 37,
+      "group": "Case Management",
+      "title": "Case Templates",
+      "desc": "Case Templates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 38,
+      "group": "Case Management",
+      "title": "Case Categories Manager",
+      "desc": "Case Categories Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 39,
+      "group": "Case Management",
+      "title": "Custom Case Fields",
+      "desc": "Custom Case Fields workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 40,
+      "group": "Case Management",
+      "title": "Case Status Workflow Builder",
+      "desc": "Case Status Workflow Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 41,
+      "group": "Case Management",
+      "title": "Case Duplicate Detection",
+      "desc": "Case Duplicate Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 42,
+      "group": "Case Management",
+      "title": "Merge Cases",
+      "desc": "Merge Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 43,
+      "group": "Case Management",
+      "title": "Split Case",
+      "desc": "Split Case workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 44,
+      "group": "Case Management",
+      "title": "Case Relationship Graph",
+      "desc": "Case Relationship Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 45,
+      "group": "Case Management",
+      "title": "Parent / Child Cases",
+      "desc": "Parent / Child Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 46,
+      "group": "Case Management",
+      "title": "Case Notes",
+      "desc": "Case Notes workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 47,
+      "group": "Case Management",
+      "title": "Internal Notes",
+      "desc": "Internal Notes workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 48,
+      "group": "Case Management",
+      "title": "Private Comments",
+      "desc": "Private Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 49,
+      "group": "Case Management",
+      "title": "Case Watchers",
+      "desc": "Case Watchers workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 50,
+      "group": "Case Management",
+      "title": "Case Followers",
+      "desc": "Case Followers workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 51,
+      "group": "Case Management",
+      "title": "Draft Report",
+      "desc": "Draft Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 52,
+      "group": "Case Management",
+      "title": "Report Edit History",
+      "desc": "Report Edit History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 53,
+      "group": "Case Management",
+      "title": "Case Assignment",
+      "desc": "Case Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 54,
+      "group": "Case Management",
+      "title": "Case SLA / Deadline",
+      "desc": "Case SLA / Deadline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 55,
+      "group": "Case Management",
+      "title": "Case Escalation",
+      "desc": "Case Escalation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 56,
+      "group": "Case Management",
+      "title": "Related Cases",
+      "desc": "Related Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 57,
+      "group": "Case Management",
+      "title": "Advanced Search",
+      "desc": "Advanced Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 58,
+      "group": "Case Management",
+      "title": "Saved Search / Filter",
+      "desc": "Saved Search / Filter workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 59,
+      "group": "Investigation / Analysis",
+      "title": "Investigation Workspace",
+      "desc": "Investigation Workspace workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 60,
+      "group": "Investigation / Analysis",
+      "title": "Evidence Timeline",
+      "desc": "Evidence Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 61,
+      "group": "Investigation / Analysis",
+      "title": "Entity Relationship Graph",
+      "desc": "Entity Relationship Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 62,
+      "group": "Investigation / Analysis",
+      "title": "Person / Organization / Location Relationship",
+      "desc": "Person / Organization / Location Relationship workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 63,
+      "group": "Investigation / Analysis",
+      "title": "Event Timeline",
+      "desc": "Event Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 64,
+      "group": "Investigation / Analysis",
+      "title": "Activity Correlation",
+      "desc": "Activity Correlation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 65,
+      "group": "Investigation / Analysis",
+      "title": "Keyword Analysis",
+      "desc": "Keyword Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 66,
+      "group": "Investigation / Analysis",
+      "title": "Pattern Detection",
+      "desc": "Pattern Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 67,
+      "group": "Investigation / Analysis",
+      "title": "Duplicate Evidence Detection",
+      "desc": "Duplicate Evidence Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 68,
+      "group": "Investigation / Analysis",
+      "title": "Evidence Similarity Search",
+      "desc": "Evidence Similarity Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 69,
+      "group": "Investigation / Analysis",
+      "title": "Case Similarity Search",
+      "desc": "Case Similarity Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 70,
+      "group": "Investigation / Analysis",
+      "title": "Investigation Checklist",
+      "desc": "Investigation Checklist workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 71,
+      "group": "Investigation / Analysis",
+      "title": "Investigation Progress",
+      "desc": "Investigation Progress workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 72,
+      "group": "Investigation / Analysis",
+      "title": "Investigator Notes",
+      "desc": "Investigator Notes workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 73,
+      "group": "Investigation / Analysis",
+      "title": "Findings Section",
+      "desc": "Findings Section workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 74,
+      "group": "Evidence",
+      "title": "Drag & Drop Upload",
+      "desc": "Drag & Drop Upload workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 75,
+      "group": "Evidence",
+      "title": "Multi-file Upload",
+      "desc": "Multi-file Upload workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 76,
+      "group": "Evidence",
+      "title": "Upload Progress",
+      "desc": "Upload Progress workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 77,
+      "group": "Evidence",
+      "title": "File Type Validation",
+      "desc": "File Type Validation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 78,
+      "group": "Evidence",
+      "title": "File Size Validation",
+      "desc": "File Size Validation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 79,
+      "group": "Evidence",
+      "title": "Evidence Preview",
+      "desc": "Evidence Preview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 80,
+      "group": "Evidence",
+      "title": "Image Zoom",
+      "desc": "Image Zoom workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 81,
+      "group": "Evidence",
+      "title": "Video Preview",
+      "desc": "Video Preview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 82,
+      "group": "Evidence",
+      "title": "Audio Player",
+      "desc": "Audio Player workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 83,
+      "group": "Evidence",
+      "title": "PDF Preview",
+      "desc": "PDF Preview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 84,
+      "group": "Evidence",
+      "title": "Evidence Thumbnail",
+      "desc": "Evidence Thumbnail workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 85,
+      "group": "Evidence",
+      "title": "Evidence Tags",
+      "desc": "Evidence Tags workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 86,
+      "group": "Evidence",
+      "title": "Evidence Description",
+      "desc": "Evidence Description workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 87,
+      "group": "Evidence",
+      "title": "Evidence Source",
+      "desc": "Evidence Source workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 88,
+      "group": "Evidence",
+      "title": "Evidence Collection Date",
+      "desc": "Evidence Collection Date workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 89,
+      "group": "Evidence",
+      "title": "Evidence Version History",
+      "desc": "Evidence Version History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 90,
+      "group": "Evidence",
+      "title": "Evidence Metadata Viewer",
+      "desc": "Evidence Metadata Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 91,
+      "group": "Evidence",
+      "title": "Evidence Access Log",
+      "desc": "Evidence Access Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 92,
+      "group": "Evidence",
+      "title": "Evidence Download Permission",
+      "desc": "Evidence Download Permission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 93,
+      "group": "Evidence",
+      "title": "Evidence Categories",
+      "desc": "Evidence Categories workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 94,
+      "group": "Evidence",
+      "title": "Evidence Integrity Status",
+      "desc": "Evidence Integrity Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 95,
+      "group": "Evidence",
+      "title": "Evidence Expiration",
+      "desc": "Evidence Expiration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 96,
+      "group": "Evidence",
+      "title": "Evidence Retention Policy",
+      "desc": "Evidence Retention Policy workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 97,
+      "group": "Evidence",
+      "title": "Evidence Archive",
+      "desc": "Evidence Archive workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 98,
+      "group": "Evidence",
+      "title": "Hash Verification UI",
+      "desc": "Hash Verification UI workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 99,
+      "group": "Chain of Custody",
+      "title": "Evidence Received Log",
+      "desc": "Evidence Received Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 100,
+      "group": "Chain of Custody",
+      "title": "Evidence Transferred Log",
+      "desc": "Evidence Transferred Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 101,
+      "group": "Chain of Custody",
+      "title": "Evidence Download Log",
+      "desc": "Evidence Download Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 102,
+      "group": "Chain of Custody",
+      "title": "Evidence Verification",
+      "desc": "Evidence Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 103,
+      "group": "Chain of Custody",
+      "title": "Digital Signature",
+      "desc": "Digital Signature workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 104,
+      "group": "Chain of Custody",
+      "title": "Timestamp Verification",
+      "desc": "Timestamp Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 105,
+      "group": "Chain of Custody",
+      "title": "Hash Comparison",
+      "desc": "Hash Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 106,
+      "group": "Chain of Custody",
+      "title": "Integrity Check",
+      "desc": "Integrity Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 107,
+      "group": "Chain of Custody",
+      "title": "Custodian History",
+      "desc": "Custodian History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 108,
+      "group": "AI / Smart",
+      "title": "AI Case Summary",
+      "desc": "AI Case Summary workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 109,
+      "group": "AI / Smart",
+      "title": "AI Evidence Summary",
+      "desc": "AI Evidence Summary workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 110,
+      "group": "AI / Smart",
+      "title": "AI Timeline Generation",
+      "desc": "AI Timeline Generation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 111,
+      "group": "AI / Smart",
+      "title": "AI Report Drafting",
+      "desc": "AI Report Drafting workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 112,
+      "group": "AI / Smart",
+      "title": "AI Keyword Extraction",
+      "desc": "AI Keyword Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 113,
+      "group": "AI / Smart",
+      "title": "AI Case Classification",
+      "desc": "AI Case Classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 114,
+      "group": "AI / Smart",
+      "title": "AI Priority Suggestion",
+      "desc": "AI Priority Suggestion workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 115,
+      "group": "AI / Smart",
+      "title": "AI Duplicate Detection",
+      "desc": "AI Duplicate Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 116,
+      "group": "AI / Smart",
+      "title": "AI Search Assistant",
+      "desc": "AI Search Assistant workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 117,
+      "group": "AI / Smart",
+      "title": "Natural Language Search",
+      "desc": "Natural Language Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 118,
+      "group": "AI / Smart",
+      "title": "Smart Tag Suggestion",
+      "desc": "Smart Tag Suggestion workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 119,
+      "group": "AI / Smart",
+      "title": "Automatic Metadata Extraction",
+      "desc": "Automatic Metadata Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 120,
+      "group": "AI / Smart",
+      "title": "OCR",
+      "desc": "OCR workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 121,
+      "group": "AI / Smart",
+      "title": "Burmese OCR",
+      "desc": "Burmese OCR workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 122,
+      "group": "AI / Smart",
+      "title": "Document Text Extraction",
+      "desc": "Document Text Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 123,
+      "group": "Location",
+      "title": "Interactive Map",
+      "desc": "Interactive Map workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 124,
+      "group": "Location",
+      "title": "Case Map",
+      "desc": "Case Map workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 125,
+      "group": "Location",
+      "title": "Evidence Map",
+      "desc": "Evidence Map workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 126,
+      "group": "Location",
+      "title": "Location Timeline",
+      "desc": "Location Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 127,
+      "group": "Location",
+      "title": "Location Search",
+      "desc": "Location Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 128,
+      "group": "Location",
+      "title": "Radius Search",
+      "desc": "Radius Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 129,
+      "group": "Location",
+      "title": "Nearby Case Search",
+      "desc": "Nearby Case Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 130,
+      "group": "Location",
+      "title": "Location Clustering",
+      "desc": "Location Clustering workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 131,
+      "group": "Location",
+      "title": "Heatmap",
+      "desc": "Heatmap workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 132,
+      "group": "Location",
+      "title": "Geofence",
+      "desc": "Geofence workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 133,
+      "group": "Location",
+      "title": "Location History",
+      "desc": "Location History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 134,
+      "group": "Location",
+      "title": "Map Layers",
+      "desc": "Map Layers workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 135,
+      "group": "Location",
+      "title": "Satellite View",
+      "desc": "Satellite View workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 136,
+      "group": "Location",
+      "title": "Coordinates Viewer",
+      "desc": "Coordinates Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 137,
+      "group": "Location",
+      "title": "Location Privacy Masking",
+      "desc": "Location Privacy Masking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 138,
+      "group": "Time / Timeline",
+      "title": "Calendar View",
+      "desc": "Calendar View workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 139,
+      "group": "Time / Timeline",
+      "title": "Day / Week / Month View",
+      "desc": "Day / Week / Month View workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 140,
+      "group": "Time / Timeline",
+      "title": "Case Deadline Calendar",
+      "desc": "Case Deadline Calendar workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 141,
+      "group": "Time / Timeline",
+      "title": "Investigation Schedule",
+      "desc": "Investigation Schedule workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 142,
+      "group": "Time / Timeline",
+      "title": "Reminder System",
+      "desc": "Reminder System workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 143,
+      "group": "Time / Timeline",
+      "title": "Recurring Tasks",
+      "desc": "Recurring Tasks workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 144,
+      "group": "Time / Timeline",
+      "title": "Timeline Filter",
+      "desc": "Timeline Filter workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 145,
+      "group": "Time / Timeline",
+      "title": "Date Range Search",
+      "desc": "Date Range Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 146,
+      "group": "Time / Timeline",
+      "title": "Relative Timeline",
+      "desc": "Relative Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 147,
+      "group": "Time / Timeline",
+      "title": "Milestone Tracking",
+      "desc": "Milestone Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 148,
+      "group": "Notification",
+      "title": "Notification Center",
+      "desc": "Notification Center workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 149,
+      "group": "Notification",
+      "title": "Push Notification",
+      "desc": "Push Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 150,
+      "group": "Notification",
+      "title": "Email Notification",
+      "desc": "Email Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 151,
+      "group": "Notification",
+      "title": "In-app Notification",
+      "desc": "In-app Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 152,
+      "group": "Notification",
+      "title": "Deadline Warning",
+      "desc": "Deadline Warning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 153,
+      "group": "Notification",
+      "title": "Assignment Notification",
+      "desc": "Assignment Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 154,
+      "group": "Notification",
+      "title": "Approval Notification",
+      "desc": "Approval Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 155,
+      "group": "Notification",
+      "title": "Evidence Upload Notification",
+      "desc": "Evidence Upload Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 156,
+      "group": "Notification",
+      "title": "Security Alert",
+      "desc": "Security Alert workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 157,
+      "group": "Notification",
+      "title": "Custom Notification Rules",
+      "desc": "Custom Notification Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 158,
+      "group": "Notification",
+      "title": "Notification Preferences",
+      "desc": "Notification Preferences workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 159,
+      "group": "Notification",
+      "title": "Notification History",
+      "desc": "Notification History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 160,
+      "group": "Analytics",
+      "title": "Case Statistics",
+      "desc": "Case Statistics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 161,
+      "group": "Analytics",
+      "title": "Open / Closed Cases",
+      "desc": "Open / Closed Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 162,
+      "group": "Analytics",
+      "title": "Case Completion Rate",
+      "desc": "Case Completion Rate workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 163,
+      "group": "Analytics",
+      "title": "Average Resolution Time",
+      "desc": "Average Resolution Time workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 164,
+      "group": "Analytics",
+      "title": "Investigator Performance",
+      "desc": "Investigator Performance workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 165,
+      "group": "Analytics",
+      "title": "Team Performance",
+      "desc": "Team Performance workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 166,
+      "group": "Analytics",
+      "title": "Evidence Statistics",
+      "desc": "Evidence Statistics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 167,
+      "group": "Analytics",
+      "title": "Category Analytics",
+      "desc": "Category Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 168,
+      "group": "Analytics",
+      "title": "Location Analytics",
+      "desc": "Location Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 169,
+      "group": "Analytics",
+      "title": "Priority Analytics",
+      "desc": "Priority Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 170,
+      "group": "Analytics",
+      "title": "Monthly Analytics",
+      "desc": "Monthly Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 171,
+      "group": "Analytics",
+      "title": "Yearly Analytics",
+      "desc": "Yearly Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 172,
+      "group": "Analytics",
+      "title": "Trend Detection",
+      "desc": "Trend Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 173,
+      "group": "Analytics",
+      "title": "Workload Analytics",
+      "desc": "Workload Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 174,
+      "group": "Analytics",
+      "title": "SLA Performance",
+      "desc": "SLA Performance workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 175,
+      "group": "Analytics",
+      "title": "Exportable Analytics",
+      "desc": "Exportable Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 176,
+      "group": "Report / Export",
+      "title": "PDF Report Builder",
+      "desc": "PDF Report Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 177,
+      "group": "Report / Export",
+      "title": "Custom Report Template",
+      "desc": "Custom Report Template workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 178,
+      "group": "Report / Export",
+      "title": "Report Branding",
+      "desc": "Report Branding workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 179,
+      "group": "Report / Export",
+      "title": "Logo / Header / Footer",
+      "desc": "Logo / Header / Footer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 180,
+      "group": "Report / Export",
+      "title": "Automated Report Number",
+      "desc": "Automated Report Number workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 181,
+      "group": "Report / Export",
+      "title": "Report Versioning",
+      "desc": "Report Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 182,
+      "group": "Report / Export",
+      "title": "Report Approval",
+      "desc": "Report Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 183,
+      "group": "Report / Export",
+      "title": "PDF Watermark",
+      "desc": "PDF Watermark workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 184,
+      "group": "Report / Export",
+      "title": "Confidentiality Label",
+      "desc": "Confidentiality Label workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 185,
+      "group": "Report / Export",
+      "title": "CSV Export",
+      "desc": "CSV Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 186,
+      "group": "Report / Export",
+      "title": "Excel Export",
+      "desc": "Excel Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 187,
+      "group": "Report / Export",
+      "title": "JSON Export",
+      "desc": "JSON Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 188,
+      "group": "Report / Export",
+      "title": "Print Layout",
+      "desc": "Print Layout workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 189,
+      "group": "Report / Export",
+      "title": "Scheduled Reports",
+      "desc": "Scheduled Reports workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 190,
+      "group": "Report / Export",
+      "title": "Automated Daily Report",
+      "desc": "Automated Daily Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 191,
+      "group": "Search",
+      "title": "Global Search",
+      "desc": "Global Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 192,
+      "group": "Search",
+      "title": "Case Search",
+      "desc": "Case Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 193,
+      "group": "Search",
+      "title": "Evidence Search",
+      "desc": "Evidence Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 194,
+      "group": "Search",
+      "title": "User Search",
+      "desc": "User Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 195,
+      "group": "Search",
+      "title": "Advanced Filters",
+      "desc": "Advanced Filters workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 196,
+      "group": "Search",
+      "title": "Boolean Search",
+      "desc": "Boolean Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 197,
+      "group": "Search",
+      "title": "Exact Match Search",
+      "desc": "Exact Match Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 198,
+      "group": "Search",
+      "title": "Date Search",
+      "desc": "Date Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 199,
+      "group": "Search",
+      "title": "Tag Search",
+      "desc": "Tag Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 200,
+      "group": "Search",
+      "title": "Search History",
+      "desc": "Search History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 201,
+      "group": "Search",
+      "title": "Saved Search",
+      "desc": "Saved Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 202,
+      "group": "Search",
+      "title": "Search Suggestions",
+      "desc": "Search Suggestions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 203,
+      "group": "Search",
+      "title": "Search Ranking",
+      "desc": "Search Ranking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 204,
+      "group": "Archive / Data",
+      "title": "Automatic Archive",
+      "desc": "Automatic Archive workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 205,
+      "group": "Archive / Data",
+      "title": "Manual Archive",
+      "desc": "Manual Archive workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 206,
+      "group": "Archive / Data",
+      "title": "Restore Case",
+      "desc": "Restore Case workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 207,
+      "group": "Archive / Data",
+      "title": "Trash / Recycle Bin",
+      "desc": "Trash / Recycle Bin workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 208,
+      "group": "Archive / Data",
+      "title": "Permanent Delete Protection",
+      "desc": "Permanent Delete Protection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 209,
+      "group": "Archive / Data",
+      "title": "Retention Policy",
+      "desc": "Retention Policy workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 210,
+      "group": "Archive / Data",
+      "title": "Data Versioning",
+      "desc": "Data Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 211,
+      "group": "Archive / Data",
+      "title": "Database Backup Status",
+      "desc": "Database Backup Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 212,
+      "group": "Archive / Data",
+      "title": "Backup History",
+      "desc": "Backup History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 213,
+      "group": "Archive / Data",
+      "title": "Data Recovery",
+      "desc": "Data Recovery workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 214,
+      "group": "Archive / Data",
+      "title": "Import Data",
+      "desc": "Import Data workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 215,
+      "group": "Archive / Data",
+      "title": "Bulk Export",
+      "desc": "Bulk Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 216,
+      "group": "Archive / Data",
+      "title": "Bulk Update",
+      "desc": "Bulk Update workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 217,
+      "group": "Mobile / PWA",
+      "title": "PWA Installation",
+      "desc": "PWA Installation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 218,
+      "group": "Mobile / PWA",
+      "title": "Offline Mode",
+      "desc": "Offline Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 219,
+      "group": "Mobile / PWA",
+      "title": "Offline Draft",
+      "desc": "Offline Draft workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 220,
+      "group": "Mobile / PWA",
+      "title": "Sync Queue",
+      "desc": "Sync Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 221,
+      "group": "Mobile / PWA",
+      "title": "Background Sync",
+      "desc": "Background Sync workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 222,
+      "group": "Mobile / PWA",
+      "title": "Mobile Camera Evidence Upload",
+      "desc": "Mobile Camera Evidence Upload workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 223,
+      "group": "Mobile / PWA",
+      "title": "Mobile File Scanner",
+      "desc": "Mobile File Scanner workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 224,
+      "group": "Mobile / PWA",
+      "title": "QR Scanner",
+      "desc": "QR Scanner workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 225,
+      "group": "Mobile / PWA",
+      "title": "Barcode Scanner",
+      "desc": "Barcode Scanner workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 226,
+      "group": "Mobile / PWA",
+      "title": "Touch-friendly UI",
+      "desc": "Touch-friendly UI workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 227,
+      "group": "Mobile / PWA",
+      "title": "Bottom Navigation",
+      "desc": "Bottom Navigation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 228,
+      "group": "Mobile / PWA",
+      "title": "Mobile Dashboard",
+      "desc": "Mobile Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 229,
+      "group": "Mobile / PWA",
+      "title": "Mobile-specific Search",
+      "desc": "Mobile-specific Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 230,
+      "group": "Mobile / PWA",
+      "title": "Mobile Notification",
+      "desc": "Mobile Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 231,
+      "group": "Mobile / PWA",
+      "title": "Safe-area Support",
+      "desc": "Safe-area Support workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 232,
+      "group": "Mobile / PWA",
+      "title": "Landscape Mode",
+      "desc": "Landscape Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 233,
+      "group": "Mobile / PWA",
+      "title": "Tablet Layout",
+      "desc": "Tablet Layout workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 234,
+      "group": "UI / UX",
+      "title": "Dark Mode",
+      "desc": "Dark Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 235,
+      "group": "UI / UX",
+      "title": "Light Mode",
+      "desc": "Light Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 236,
+      "group": "UI / UX",
+      "title": "Auto Theme",
+      "desc": "Auto Theme workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 237,
+      "group": "UI / UX",
+      "title": "Accent Color",
+      "desc": "Accent Color workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 238,
+      "group": "UI / UX",
+      "title": "Compact Mode",
+      "desc": "Compact Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 239,
+      "group": "UI / UX",
+      "title": "Comfortable Mode",
+      "desc": "Comfortable Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 240,
+      "group": "UI / UX",
+      "title": "Font Size Control",
+      "desc": "Font Size Control workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 241,
+      "group": "UI / UX",
+      "title": "Accessibility Mode",
+      "desc": "Accessibility Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 242,
+      "group": "UI / UX",
+      "title": "High Contrast",
+      "desc": "High Contrast workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 243,
+      "group": "UI / UX",
+      "title": "Reduced Motion",
+      "desc": "Reduced Motion workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 244,
+      "group": "UI / UX",
+      "title": "Keyboard Navigation",
+      "desc": "Keyboard Navigation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 245,
+      "group": "UI / UX",
+      "title": "Focus Indicators",
+      "desc": "Focus Indicators workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 246,
+      "group": "UI / UX",
+      "title": "Screen Reader Labels",
+      "desc": "Screen Reader Labels workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 247,
+      "group": "UI / UX",
+      "title": "Loading Skeleton",
+      "desc": "Loading Skeleton workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 248,
+      "group": "UI / UX",
+      "title": "Empty States",
+      "desc": "Empty States workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 249,
+      "group": "UI / UX",
+      "title": "Error States",
+      "desc": "Error States workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 250,
+      "group": "UI / UX",
+      "title": "Success Animation",
+      "desc": "Success Animation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 251,
+      "group": "UI / UX",
+      "title": "Toast Notification",
+      "desc": "Toast Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 252,
+      "group": "UI / UX",
+      "title": "Confirmation Dialog",
+      "desc": "Confirmation Dialog workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 253,
+      "group": "UI / UX",
+      "title": "Undo Action",
+      "desc": "Undo Action workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 254,
+      "group": "UI / UX",
+      "title": "Responsive Tables",
+      "desc": "Responsive Tables workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 255,
+      "group": "Admin / System",
+      "title": "Admin Dashboard",
+      "desc": "Admin Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 256,
+      "group": "Admin / System",
+      "title": "System Health Monitor",
+      "desc": "System Health Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 257,
+      "group": "Admin / System",
+      "title": "Server Status",
+      "desc": "Server Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 258,
+      "group": "Admin / System",
+      "title": "Database Status",
+      "desc": "Database Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 259,
+      "group": "Admin / System",
+      "title": "API Status",
+      "desc": "API Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 260,
+      "group": "Admin / System",
+      "title": "Storage Status",
+      "desc": "Storage Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 261,
+      "group": "Admin / System",
+      "title": "Queue Status",
+      "desc": "Queue Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 262,
+      "group": "Admin / System",
+      "title": "Error Log",
+      "desc": "Error Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 263,
+      "group": "Admin / System",
+      "title": "System Log",
+      "desc": "System Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 264,
+      "group": "Admin / System",
+      "title": "Audit Log",
+      "desc": "Audit Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 265,
+      "group": "Admin / System",
+      "title": "Maintenance Mode",
+      "desc": "Maintenance Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 266,
+      "group": "Admin / System",
+      "title": "System Settings",
+      "desc": "System Settings workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 267,
+      "group": "Admin / System",
+      "title": "Feature Toggle",
+      "desc": "Feature Toggle workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 268,
+      "group": "Admin / System",
+      "title": "Environment Status",
+      "desc": "Environment Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 269,
+      "group": "Admin / System",
+      "title": "Version Manager",
+      "desc": "Version Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 270,
+      "group": "API / Integration",
+      "title": "REST API",
+      "desc": "REST API workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 271,
+      "group": "API / Integration",
+      "title": "API Documentation",
+      "desc": "API Documentation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 272,
+      "group": "API / Integration",
+      "title": "API Access Control",
+      "desc": "API Access Control workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 273,
+      "group": "API / Integration",
+      "title": "Webhooks",
+      "desc": "Webhooks workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 274,
+      "group": "API / Integration",
+      "title": "Webhook Logs",
+      "desc": "Webhook Logs workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 275,
+      "group": "API / Integration",
+      "title": "External Storage Integration",
+      "desc": "External Storage Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 276,
+      "group": "API / Integration",
+      "title": "Email Integration",
+      "desc": "Email Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 277,
+      "group": "API / Integration",
+      "title": "Calendar Integration",
+      "desc": "Calendar Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 278,
+      "group": "API / Integration",
+      "title": "Maps Integration",
+      "desc": "Maps Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 279,
+      "group": "API / Integration",
+      "title": "Authentication Provider Integration",
+      "desc": "Authentication Provider Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 280,
+      "group": "API / Integration",
+      "title": "Import / Export API",
+      "desc": "Import / Export API workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 281,
+      "group": "API / Integration",
+      "title": "Third-party Notification API",
+      "desc": "Third-party Notification API workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 282,
+      "group": "Quality / Reliability",
+      "title": "Error Reporting",
+      "desc": "Error Reporting workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 283,
+      "group": "Quality / Reliability",
+      "title": "Crash Tracking",
+      "desc": "Crash Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 284,
+      "group": "Quality / Reliability",
+      "title": "Performance Monitor",
+      "desc": "Performance Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 285,
+      "group": "Quality / Reliability",
+      "title": "Page Load Monitor",
+      "desc": "Page Load Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 286,
+      "group": "Quality / Reliability",
+      "title": "API Response Monitor",
+      "desc": "API Response Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 287,
+      "group": "Quality / Reliability",
+      "title": "Upload Failure Recovery",
+      "desc": "Upload Failure Recovery workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 288,
+      "group": "Quality / Reliability",
+      "title": "Network Retry",
+      "desc": "Network Retry workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 289,
+      "group": "Quality / Reliability",
+      "title": "Connection Status",
+      "desc": "Connection Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 290,
+      "group": "Quality / Reliability",
+      "title": "Auto Save",
+      "desc": "Auto Save workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 291,
+      "group": "Quality / Reliability",
+      "title": "Unsaved Changes Warning",
+      "desc": "Unsaved Changes Warning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 292,
+      "group": "Quality / Reliability",
+      "title": "Data Validation",
+      "desc": "Data Validation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 293,
+      "group": "Quality / Reliability",
+      "title": "Form Recovery",
+      "desc": "Form Recovery workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 294,
+      "group": "Emergency / Operational",
+      "title": "Emergency Mode",
+      "desc": "Emergency Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 295,
+      "group": "Emergency / Operational",
+      "title": "System-wide Announcement",
+      "desc": "System-wide Announcement workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 296,
+      "group": "Emergency / Operational",
+      "title": "Critical Alert",
+      "desc": "Critical Alert workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 297,
+      "group": "Emergency / Operational",
+      "title": "Priority Override",
+      "desc": "Priority Override workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 298,
+      "group": "Emergency / Operational",
+      "title": "Incident Escalation",
+      "desc": "Incident Escalation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 299,
+      "group": "Emergency / Operational",
+      "title": "Emergency Contact List",
+      "desc": "Emergency Contact List workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 300,
+      "group": "Emergency / Operational",
+      "title": "Emergency Activity Log",
+      "desc": "Emergency Activity Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 301,
+      "group": "Emergency / Operational",
+      "title": "Read-only Lockdown Mode",
+      "desc": "Read-only Lockdown Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 302,
+      "group": "Emergency / Operational",
+      "title": "Data Export Emergency Mode",
+      "desc": "Data Export Emergency Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 303,
+      "group": "Emergency / Operational",
+      "title": "Recovery Mode",
+      "desc": "Recovery Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 304,
+      "group": "Core Portal",
+      "title": "Anonymous / Confidential Report",
+      "desc": "Anonymous / Confidential Report existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 305,
+      "group": "Core Portal",
+      "title": "Emergency / Email Notifications",
+      "desc": "Emergency / Email Notifications existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 306,
+      "group": "Core Portal",
+      "title": "Public / Private Visibility",
+      "desc": "Public / Private Visibility existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 307,
+      "group": "Core Portal",
+      "title": "Case Comments",
+      "desc": "Case Comments existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 308,
+      "group": "Core Portal",
+      "title": "Panic / Exit",
+      "desc": "Panic / Exit existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 309,
+      "group": "Core Portal",
+      "title": "Multi-language Burmese / English",
+      "desc": "Multi-language Burmese / English existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 310,
+      "group": "Core Portal",
+      "title": "Voice-to-Text",
+      "desc": "Voice-to-Text existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 311,
+      "group": "Core Portal",
+      "title": "Auto Moderation",
+      "desc": "Auto Moderation existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 312,
+      "group": "Core Portal",
+      "title": "Privacy-first IP / Location Handling",
+      "desc": "Privacy-first IP / Location Handling existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 313,
+      "group": "Core Portal",
+      "title": "QR Case Lookup",
+      "desc": "QR Case Lookup existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 314,
+      "group": "Core Portal",
+      "title": "Hotline Buttons",
+      "desc": "Hotline Buttons existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 315,
+      "group": "Core Portal",
+      "title": "Report Templates",
+      "desc": "Report Templates existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 316,
+      "group": "Core Portal",
+      "title": "Watermarked Preview",
+      "desc": "Watermarked Preview existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 317,
+      "group": "Core Portal",
+      "title": "Public Feedback",
+      "desc": "Public Feedback existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 318,
+      "group": "Core Portal",
+      "title": "Server Session Timeout",
+      "desc": "Server Session Timeout existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 319,
+      "group": "Core Portal",
+      "title": "Encrypted Evidence Storage",
+      "desc": "Encrypted Evidence Storage existing portal capability exposed in the unified feature registry.",
+      "state": "ready"
+    },
+    {
+      "id": 320,
+      "group": "Workflow Automation",
+      "title": "Visual Workflow Builder",
+      "desc": "Visual Workflow Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 321,
+      "group": "Workflow Automation",
+      "title": "Drag & Drop Workflow",
+      "desc": "Drag & Drop Workflow workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 322,
+      "group": "Workflow Automation",
+      "title": "Auto Case Routing",
+      "desc": "Auto Case Routing workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 323,
+      "group": "Workflow Automation",
+      "title": "Auto Assignment Rules",
+      "desc": "Auto Assignment Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 324,
+      "group": "Workflow Automation",
+      "title": "Auto Priority Rules",
+      "desc": "Auto Priority Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 325,
+      "group": "Workflow Automation",
+      "title": "Auto Tag Rules",
+      "desc": "Auto Tag Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 326,
+      "group": "Workflow Automation",
+      "title": "Auto Escalation Rules",
+      "desc": "Auto Escalation Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 327,
+      "group": "Workflow Automation",
+      "title": "Conditional Approval",
+      "desc": "Conditional Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 328,
+      "group": "Workflow Automation",
+      "title": "Multi-step Approval",
+      "desc": "Multi-step Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 329,
+      "group": "Workflow Automation",
+      "title": "Parallel Approval",
+      "desc": "Parallel Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 330,
+      "group": "Workflow Automation",
+      "title": "Rejection & Resubmission",
+      "desc": "Rejection & Resubmission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 331,
+      "group": "Workflow Automation",
+      "title": "Auto Close Rules",
+      "desc": "Auto Close Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 332,
+      "group": "Workflow Automation",
+      "title": "Auto Archive Rules",
+      "desc": "Auto Archive Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 333,
+      "group": "Workflow Automation",
+      "title": "Scheduled Actions",
+      "desc": "Scheduled Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 334,
+      "group": "Workflow Automation",
+      "title": "Trigger-based Actions",
+      "desc": "Trigger-based Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 335,
+      "group": "Workflow Automation",
+      "title": "Workflow History",
+      "desc": "Workflow History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 336,
+      "group": "Forms Builder",
+      "title": "Custom Form Builder",
+      "desc": "Custom Form Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 337,
+      "group": "Forms Builder",
+      "title": "Drag & Drop Form Fields",
+      "desc": "Drag & Drop Form Fields workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 338,
+      "group": "Forms Builder",
+      "title": "Conditional Fields",
+      "desc": "Conditional Fields workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 339,
+      "group": "Forms Builder",
+      "title": "Required Field Rules",
+      "desc": "Required Field Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 340,
+      "group": "Forms Builder",
+      "title": "Form Templates",
+      "desc": "Form Templates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 341,
+      "group": "Forms Builder",
+      "title": "Multiple Form Types",
+      "desc": "Multiple Form Types workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 342,
+      "group": "Forms Builder",
+      "title": "Dynamic Form Sections",
+      "desc": "Dynamic Form Sections workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 343,
+      "group": "Forms Builder",
+      "title": "Auto-generated Case Forms",
+      "desc": "Auto-generated Case Forms workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 344,
+      "group": "Forms Builder",
+      "title": "Public Submission Form",
+      "desc": "Public Submission Form workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 345,
+      "group": "Forms Builder",
+      "title": "Anonymous Submission",
+      "desc": "Anonymous Submission workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 346,
+      "group": "Forms Builder",
+      "title": "Form Validation Rules",
+      "desc": "Form Validation Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 347,
+      "group": "Forms Builder",
+      "title": "Form Versioning",
+      "desc": "Form Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 348,
+      "group": "Public Submission",
+      "title": "Public Report Portal",
+      "desc": "Public Report Portal workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 349,
+      "group": "Public Submission",
+      "title": "Anonymous Report ID",
+      "desc": "Anonymous Report ID workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 350,
+      "group": "Public Submission",
+      "title": "Submission Tracking",
+      "desc": "Submission Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 351,
+      "group": "Public Submission",
+      "title": "Secure Submission Link",
+      "desc": "Secure Submission Link workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 352,
+      "group": "Public Submission",
+      "title": "One-time Submission Link",
+      "desc": "One-time Submission Link workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 353,
+      "group": "Public Submission",
+      "title": "Submission Status Page",
+      "desc": "Submission Status Page workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 354,
+      "group": "Public Submission",
+      "title": "Submitter Verification",
+      "desc": "Submitter Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 355,
+      "group": "Public Submission",
+      "title": "Email Verification",
+      "desc": "Email Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 356,
+      "group": "Public Submission",
+      "title": "CAPTCHA",
+      "desc": "CAPTCHA workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 357,
+      "group": "Public Submission",
+      "title": "Duplicate Submission Detection",
+      "desc": "Duplicate Submission Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 358,
+      "group": "Public Submission",
+      "title": "Submission Confirmation",
+      "desc": "Submission Confirmation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 359,
+      "group": "Public Submission",
+      "title": "Submission Receipt",
+      "desc": "Submission Receipt workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 360,
+      "group": "Public Submission",
+      "title": "Public FAQ",
+      "desc": "Public FAQ workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 361,
+      "group": "Communication",
+      "title": "Internal Chat",
+      "desc": "Internal Chat workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 362,
+      "group": "Communication",
+      "title": "Case Chat",
+      "desc": "Case Chat workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 363,
+      "group": "Communication",
+      "title": "Evidence Comments",
+      "desc": "Evidence Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 364,
+      "group": "Communication",
+      "title": "Mention System",
+      "desc": "Mention System workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 365,
+      "group": "Communication",
+      "title": "Threaded Comments",
+      "desc": "Threaded Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 366,
+      "group": "Communication",
+      "title": "Reply / Quote",
+      "desc": "Reply / Quote workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 367,
+      "group": "Communication",
+      "title": "Message Reactions",
+      "desc": "Message Reactions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 368,
+      "group": "Communication",
+      "title": "Read / Unread Status",
+      "desc": "Read / Unread Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 369,
+      "group": "Communication",
+      "title": "Message Search",
+      "desc": "Message Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 370,
+      "group": "Communication",
+      "title": "Conversation Archive",
+      "desc": "Conversation Archive workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 371,
+      "group": "Communication",
+      "title": "Announcement Channel",
+      "desc": "Announcement Channel workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 372,
+      "group": "Communication",
+      "title": "Broadcast Message",
+      "desc": "Broadcast Message workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 373,
+      "group": "Task Management",
+      "title": "Task Creation",
+      "desc": "Task Creation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 374,
+      "group": "Task Management",
+      "title": "Task Assignment",
+      "desc": "Task Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 375,
+      "group": "Task Management",
+      "title": "Subtasks",
+      "desc": "Subtasks workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 376,
+      "group": "Task Management",
+      "title": "Task Dependencies",
+      "desc": "Task Dependencies workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 377,
+      "group": "Task Management",
+      "title": "Task Priority",
+      "desc": "Task Priority workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 378,
+      "group": "Task Management",
+      "title": "Task Deadline",
+      "desc": "Task Deadline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 379,
+      "group": "Task Management",
+      "title": "Task Status",
+      "desc": "Task Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 380,
+      "group": "Task Management",
+      "title": "Task Checklist",
+      "desc": "Task Checklist workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 381,
+      "group": "Task Management",
+      "title": "Task Comments",
+      "desc": "Task Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 382,
+      "group": "Task Management",
+      "title": "Task Attachments",
+      "desc": "Task Attachments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 383,
+      "group": "Task Management",
+      "title": "Recurring Tasks",
+      "desc": "Recurring Tasks workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 384,
+      "group": "Task Management",
+      "title": "Task Calendar",
+      "desc": "Task Calendar workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 385,
+      "group": "Task Management",
+      "title": "Kanban Board",
+      "desc": "Kanban Board workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 386,
+      "group": "Task Management",
+      "title": "Task Progress",
+      "desc": "Task Progress workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 387,
+      "group": "Task Management",
+      "title": "Team Workload",
+      "desc": "Team Workload workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 388,
+      "group": "Review / Approval",
+      "title": "Review Queue",
+      "desc": "Review Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 389,
+      "group": "Review / Approval",
+      "title": "Blind Review",
+      "desc": "Blind Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 390,
+      "group": "Review / Approval",
+      "title": "Peer Review",
+      "desc": "Peer Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 391,
+      "group": "Review / Approval",
+      "title": "Reviewer Assignment",
+      "desc": "Reviewer Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 392,
+      "group": "Review / Approval",
+      "title": "Review Score",
+      "desc": "Review Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 393,
+      "group": "Review / Approval",
+      "title": "Review Checklist",
+      "desc": "Review Checklist workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 394,
+      "group": "Review / Approval",
+      "title": "Review Comments",
+      "desc": "Review Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 395,
+      "group": "Review / Approval",
+      "title": "Review History",
+      "desc": "Review History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 396,
+      "group": "Review / Approval",
+      "title": "Approval Queue",
+      "desc": "Approval Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 397,
+      "group": "Review / Approval",
+      "title": "Approval Deadline",
+      "desc": "Approval Deadline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 398,
+      "group": "Review / Approval",
+      "title": "Approval Reminder",
+      "desc": "Approval Reminder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 399,
+      "group": "Review / Approval",
+      "title": "Reopen Review",
+      "desc": "Reopen Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 400,
+      "group": "Review / Approval",
+      "title": "Revision Request",
+      "desc": "Revision Request workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 401,
+      "group": "Compliance",
+      "title": "Compliance Checklist",
+      "desc": "Compliance Checklist workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 402,
+      "group": "Compliance",
+      "title": "Policy Manager",
+      "desc": "Policy Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 403,
+      "group": "Compliance",
+      "title": "Policy Versioning",
+      "desc": "Policy Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 404,
+      "group": "Compliance",
+      "title": "Consent Tracking",
+      "desc": "Consent Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 405,
+      "group": "Compliance",
+      "title": "Data Access Request",
+      "desc": "Data Access Request workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 406,
+      "group": "Compliance",
+      "title": "Data Export Request",
+      "desc": "Data Export Request workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 407,
+      "group": "Compliance",
+      "title": "Data Deletion Request",
+      "desc": "Data Deletion Request workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 408,
+      "group": "Compliance",
+      "title": "Retention Enforcement",
+      "desc": "Retention Enforcement workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 409,
+      "group": "Compliance",
+      "title": "Privacy Audit",
+      "desc": "Privacy Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 410,
+      "group": "Compliance",
+      "title": "Compliance Dashboard",
+      "desc": "Compliance Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 411,
+      "group": "Compliance",
+      "title": "Compliance Report",
+      "desc": "Compliance Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 412,
+      "group": "Compliance",
+      "title": "Policy Acknowledgement",
+      "desc": "Policy Acknowledgement workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 413,
+      "group": "Data Governance",
+      "title": "Data Classification",
+      "desc": "Data Classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 414,
+      "group": "Data Governance",
+      "title": "Confidentiality Levels",
+      "desc": "Confidentiality Levels workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 415,
+      "group": "Data Governance",
+      "title": "Sensitive Field Masking",
+      "desc": "Sensitive Field Masking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 416,
+      "group": "Data Governance",
+      "title": "Field Encryption",
+      "desc": "Field Encryption workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 417,
+      "group": "Data Governance",
+      "title": "Data Ownership",
+      "desc": "Data Ownership workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 418,
+      "group": "Data Governance",
+      "title": "Data Steward",
+      "desc": "Data Steward workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 419,
+      "group": "Data Governance",
+      "title": "Data Quality Score",
+      "desc": "Data Quality Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 420,
+      "group": "Data Governance",
+      "title": "Missing Data Detection",
+      "desc": "Missing Data Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 421,
+      "group": "Data Governance",
+      "title": "Duplicate Data Detection",
+      "desc": "Duplicate Data Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 422,
+      "group": "Data Governance",
+      "title": "Data Lineage",
+      "desc": "Data Lineage workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 423,
+      "group": "Data Governance",
+      "title": "Change Impact Tracking",
+      "desc": "Change Impact Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 424,
+      "group": "Data Governance",
+      "title": "Schema Versioning",
+      "desc": "Schema Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 425,
+      "group": "Storage Management",
+      "title": "Storage Quota",
+      "desc": "Storage Quota workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 426,
+      "group": "Storage Management",
+      "title": "Per-user Storage Limit",
+      "desc": "Per-user Storage Limit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 427,
+      "group": "Storage Management",
+      "title": "Per-case Storage Limit",
+      "desc": "Per-case Storage Limit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 428,
+      "group": "Storage Management",
+      "title": "Storage Analytics",
+      "desc": "Storage Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 429,
+      "group": "Storage Management",
+      "title": "Large File Detection",
+      "desc": "Large File Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 430,
+      "group": "Storage Management",
+      "title": "Automatic Compression",
+      "desc": "Automatic Compression workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 431,
+      "group": "Storage Management",
+      "title": "Thumbnail Generation",
+      "desc": "Thumbnail Generation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 432,
+      "group": "Storage Management",
+      "title": "Duplicate File Detection",
+      "desc": "Duplicate File Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 433,
+      "group": "Storage Management",
+      "title": "Cold Storage",
+      "desc": "Cold Storage workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 434,
+      "group": "Storage Management",
+      "title": "Archive Storage",
+      "desc": "Archive Storage workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 435,
+      "group": "Storage Management",
+      "title": "Storage Cleanup Rules",
+      "desc": "Storage Cleanup Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 436,
+      "group": "Media Intelligence",
+      "title": "Image OCR",
+      "desc": "Image OCR workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 437,
+      "group": "Media Intelligence",
+      "title": "Video Frame Search",
+      "desc": "Video Frame Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 438,
+      "group": "Media Intelligence",
+      "title": "Audio Transcription",
+      "desc": "Audio Transcription workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 439,
+      "group": "Media Intelligence",
+      "title": "Document OCR",
+      "desc": "Document OCR workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 440,
+      "group": "Media Intelligence",
+      "title": "PDF Text Extraction",
+      "desc": "PDF Text Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 441,
+      "group": "Media Intelligence",
+      "title": "Image Metadata Extraction",
+      "desc": "Image Metadata Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 442,
+      "group": "Media Intelligence",
+      "title": "Video Metadata Extraction",
+      "desc": "Video Metadata Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 443,
+      "group": "Media Intelligence",
+      "title": "Audio Metadata Extraction",
+      "desc": "Audio Metadata Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 444,
+      "group": "Media Intelligence",
+      "title": "EXIF Viewer",
+      "desc": "EXIF Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 445,
+      "group": "Media Intelligence",
+      "title": "Media Timeline",
+      "desc": "Media Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 446,
+      "group": "Media Intelligence",
+      "title": "Media Similarity Search",
+      "desc": "Media Similarity Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 447,
+      "group": "Advanced AI",
+      "title": "AI Investigation Assistant",
+      "desc": "AI Investigation Assistant workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 448,
+      "group": "Advanced AI",
+      "title": "AI Case Classification",
+      "desc": "AI Case Classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 449,
+      "group": "Advanced AI",
+      "title": "AI Risk Score",
+      "desc": "AI Risk Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 450,
+      "group": "Advanced AI",
+      "title": "AI Priority Prediction",
+      "desc": "AI Priority Prediction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 451,
+      "group": "Advanced AI",
+      "title": "AI Duplicate Detection",
+      "desc": "AI Duplicate Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 452,
+      "group": "Advanced AI",
+      "title": "AI Entity Extraction",
+      "desc": "AI Entity Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 453,
+      "group": "Advanced AI",
+      "title": "AI Relationship Extraction",
+      "desc": "AI Relationship Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 454,
+      "group": "Advanced AI",
+      "title": "AI Timeline Extraction",
+      "desc": "AI Timeline Extraction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 455,
+      "group": "Advanced AI",
+      "title": "AI Evidence Linking",
+      "desc": "AI Evidence Linking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 456,
+      "group": "Advanced AI",
+      "title": "AI Contradiction Detection",
+      "desc": "AI Contradiction Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 457,
+      "group": "Advanced AI",
+      "title": "AI Missing Evidence Suggestions",
+      "desc": "AI Missing Evidence Suggestions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 458,
+      "group": "Advanced AI",
+      "title": "AI Question Generator",
+      "desc": "AI Question Generator workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 459,
+      "group": "Advanced AI",
+      "title": "AI Report Reviewer",
+      "desc": "AI Report Reviewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 460,
+      "group": "Advanced AI",
+      "title": "AI Search Assistant",
+      "desc": "AI Search Assistant workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 461,
+      "group": "Advanced AI",
+      "title": "AI Natural-language Filters",
+      "desc": "AI Natural-language Filters workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 462,
+      "group": "Advanced Intelligence Search",
+      "title": "Semantic Search",
+      "desc": "Semantic Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 463,
+      "group": "Advanced Intelligence Search",
+      "title": "Similarity Search",
+      "desc": "Similarity Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 464,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Meaning",
+      "desc": "Search by Meaning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 465,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Entity",
+      "desc": "Search by Entity workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 466,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Relationship",
+      "desc": "Search by Relationship workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 467,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Evidence Content",
+      "desc": "Search by Evidence Content workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 468,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by OCR Text",
+      "desc": "Search by OCR Text workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 469,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Metadata",
+      "desc": "Search by Metadata workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 470,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Location Radius",
+      "desc": "Search by Location Radius workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 471,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Time Range",
+      "desc": "Search by Time Range workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 472,
+      "group": "Advanced Intelligence Search",
+      "title": "Search by Combined Conditions",
+      "desc": "Search by Combined Conditions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 473,
+      "group": "Advanced Analytics",
+      "title": "Predictive Analytics",
+      "desc": "Predictive Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 474,
+      "group": "Advanced Analytics",
+      "title": "Risk Dashboard",
+      "desc": "Risk Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 475,
+      "group": "Advanced Analytics",
+      "title": "Bottleneck Detection",
+      "desc": "Bottleneck Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 476,
+      "group": "Advanced Analytics",
+      "title": "SLA Breach Prediction",
+      "desc": "SLA Breach Prediction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 477,
+      "group": "Advanced Analytics",
+      "title": "Workload Prediction",
+      "desc": "Workload Prediction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 478,
+      "group": "Advanced Analytics",
+      "title": "Case Volume Forecast",
+      "desc": "Case Volume Forecast workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 479,
+      "group": "Advanced Analytics",
+      "title": "Resource Forecast",
+      "desc": "Resource Forecast workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 480,
+      "group": "Advanced Analytics",
+      "title": "Anomaly Detection",
+      "desc": "Anomaly Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 481,
+      "group": "Advanced Analytics",
+      "title": "Trend Comparison",
+      "desc": "Trend Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 482,
+      "group": "Advanced Analytics",
+      "title": "Department Comparison",
+      "desc": "Department Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 483,
+      "group": "Advanced Analytics",
+      "title": "Investigator Comparison",
+      "desc": "Investigator Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 484,
+      "group": "Advanced Analytics",
+      "title": "Period-over-period Comparison",
+      "desc": "Period-over-period Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 485,
+      "group": "Relationship / Graph",
+      "title": "Entity Graph",
+      "desc": "Entity Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 486,
+      "group": "Relationship / Graph",
+      "title": "Case Graph",
+      "desc": "Case Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 487,
+      "group": "Relationship / Graph",
+      "title": "Evidence Graph",
+      "desc": "Evidence Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 488,
+      "group": "Relationship / Graph",
+      "title": "Person Graph",
+      "desc": "Person Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 489,
+      "group": "Relationship / Graph",
+      "title": "Organization Graph",
+      "desc": "Organization Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 490,
+      "group": "Relationship / Graph",
+      "title": "Location Graph",
+      "desc": "Location Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 491,
+      "group": "Relationship / Graph",
+      "title": "Event Graph",
+      "desc": "Event Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 492,
+      "group": "Relationship / Graph",
+      "title": "Relationship Strength",
+      "desc": "Relationship Strength workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 493,
+      "group": "Relationship / Graph",
+      "title": "Graph Filtering",
+      "desc": "Graph Filtering workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 494,
+      "group": "Relationship / Graph",
+      "title": "Graph Timeline",
+      "desc": "Graph Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 495,
+      "group": "Relationship / Graph",
+      "title": "Graph Export",
+      "desc": "Graph Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 496,
+      "group": "Multi-organization",
+      "title": "Organization Management",
+      "desc": "Organization Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 497,
+      "group": "Multi-organization",
+      "title": "Branch Management",
+      "desc": "Branch Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 498,
+      "group": "Multi-organization",
+      "title": "Department Hierarchy",
+      "desc": "Department Hierarchy workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 499,
+      "group": "Multi-organization",
+      "title": "Cross-organization Cases",
+      "desc": "Cross-organization Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 500,
+      "group": "Multi-organization",
+      "title": "Cross-team Assignment",
+      "desc": "Cross-team Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 501,
+      "group": "Multi-organization",
+      "title": "Organization-level Permissions",
+      "desc": "Organization-level Permissions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 502,
+      "group": "Multi-organization",
+      "title": "Organization-level Analytics",
+      "desc": "Organization-level Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 503,
+      "group": "Multi-organization",
+      "title": "Tenant Isolation",
+      "desc": "Tenant Isolation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 504,
+      "group": "Multi-organization",
+      "title": "Organization Branding",
+      "desc": "Organization Branding workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 505,
+      "group": "Multi-organization",
+      "title": "Organization Settings",
+      "desc": "Organization Settings workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 506,
+      "group": "Multi-language",
+      "title": "Myanmar Language UI",
+      "desc": "Myanmar Language UI workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 507,
+      "group": "Multi-language",
+      "title": "English UI",
+      "desc": "English UI workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 508,
+      "group": "Multi-language",
+      "title": "Language Switcher",
+      "desc": "Language Switcher workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 509,
+      "group": "Multi-language",
+      "title": "Translation Manager",
+      "desc": "Translation Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 510,
+      "group": "Multi-language",
+      "title": "Custom Translation",
+      "desc": "Custom Translation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 511,
+      "group": "Multi-language",
+      "title": "RTL Support",
+      "desc": "RTL Support workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 512,
+      "group": "Multi-language",
+      "title": "Localized Date Format",
+      "desc": "Localized Date Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 513,
+      "group": "Multi-language",
+      "title": "Localized Number Format",
+      "desc": "Localized Number Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 514,
+      "group": "Multi-language",
+      "title": "Localized Notifications",
+      "desc": "Localized Notifications workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 515,
+      "group": "Multi-language",
+      "title": "Translation Fallback",
+      "desc": "Translation Fallback workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 516,
+      "group": "Import / Migration",
+      "title": "CSV Import Wizard",
+      "desc": "CSV Import Wizard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 517,
+      "group": "Import / Migration",
+      "title": "Excel Import Wizard",
+      "desc": "Excel Import Wizard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 518,
+      "group": "Import / Migration",
+      "title": "JSON Import",
+      "desc": "JSON Import workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 519,
+      "group": "Import / Migration",
+      "title": "Bulk Case Import",
+      "desc": "Bulk Case Import workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 520,
+      "group": "Import / Migration",
+      "title": "Bulk Evidence Import",
+      "desc": "Bulk Evidence Import workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 521,
+      "group": "Import / Migration",
+      "title": "User Import",
+      "desc": "User Import workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 522,
+      "group": "Import / Migration",
+      "title": "Field Mapping",
+      "desc": "Field Mapping workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 523,
+      "group": "Import / Migration",
+      "title": "Duplicate Detection During Import",
+      "desc": "Duplicate Detection During Import workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 524,
+      "group": "Import / Migration",
+      "title": "Import Preview",
+      "desc": "Import Preview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 525,
+      "group": "Import / Migration",
+      "title": "Import Validation",
+      "desc": "Import Validation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 526,
+      "group": "Import / Migration",
+      "title": "Import Error Report",
+      "desc": "Import Error Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 527,
+      "group": "Import / Migration",
+      "title": "Migration History",
+      "desc": "Migration History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 528,
+      "group": "Developer / Testing",
+      "title": "API Sandbox",
+      "desc": "API Sandbox workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 529,
+      "group": "Developer / Testing",
+      "title": "Test Data Generator",
+      "desc": "Test Data Generator workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 530,
+      "group": "Developer / Testing",
+      "title": "Webhook Tester",
+      "desc": "Webhook Tester workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 531,
+      "group": "Developer / Testing",
+      "title": "API Request Logs",
+      "desc": "API Request Logs workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 532,
+      "group": "Developer / Testing",
+      "title": "API Usage Analytics",
+      "desc": "API Usage Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 533,
+      "group": "Developer / Testing",
+      "title": "Rate Limit Dashboard",
+      "desc": "Rate Limit Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 534,
+      "group": "Developer / Testing",
+      "title": "Feature Flags",
+      "desc": "Feature Flags workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 535,
+      "group": "Developer / Testing",
+      "title": "Beta Feature Channel",
+      "desc": "Beta Feature Channel workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 536,
+      "group": "Developer / Testing",
+      "title": "Debug Console",
+      "desc": "Debug Console workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 537,
+      "group": "Developer / Testing",
+      "title": "System Diagnostics",
+      "desc": "System Diagnostics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 538,
+      "group": "Developer / Testing",
+      "title": "Health Check API",
+      "desc": "Health Check API workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 539,
+      "group": "Developer / Testing",
+      "title": "Integration Test Monitor",
+      "desc": "Integration Test Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 540,
+      "group": "Deployment / Operations",
+      "title": "Environment Manager",
+      "desc": "Environment Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 541,
+      "group": "Deployment / Operations",
+      "title": "Development / Staging / Production",
+      "desc": "Development / Staging / Production workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 542,
+      "group": "Deployment / Operations",
+      "title": "Release Notes",
+      "desc": "Release Notes workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 543,
+      "group": "Deployment / Operations",
+      "title": "Version Rollback",
+      "desc": "Version Rollback workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 544,
+      "group": "Deployment / Operations",
+      "title": "Deployment History",
+      "desc": "Deployment History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 545,
+      "group": "Deployment / Operations",
+      "title": "Maintenance Scheduler",
+      "desc": "Maintenance Scheduler workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 546,
+      "group": "Deployment / Operations",
+      "title": "Scheduled Backup",
+      "desc": "Scheduled Backup workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 547,
+      "group": "Deployment / Operations",
+      "title": "Backup Verification",
+      "desc": "Backup Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 548,
+      "group": "Deployment / Operations",
+      "title": "Disaster Recovery Plan",
+      "desc": "Disaster Recovery Plan workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 549,
+      "group": "Deployment / Operations",
+      "title": "Recovery Testing",
+      "desc": "Recovery Testing workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 550,
+      "group": "Deployment / Operations",
+      "title": "Service Dependency Monitor",
+      "desc": "Service Dependency Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 551,
+      "group": "Advanced Mobile",
+      "title": "Biometric Unlock",
+      "desc": "Biometric Unlock workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 552,
+      "group": "Advanced Mobile",
+      "title": "Camera Capture",
+      "desc": "Camera Capture workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 553,
+      "group": "Advanced Mobile",
+      "title": "Document Scanner",
+      "desc": "Document Scanner workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 554,
+      "group": "Advanced Mobile",
+      "title": "QR Evidence Linking",
+      "desc": "QR Evidence Linking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 555,
+      "group": "Advanced Mobile",
+      "title": "Offline Evidence Capture",
+      "desc": "Offline Evidence Capture workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 556,
+      "group": "Advanced Mobile",
+      "title": "Offline Case Creation",
+      "desc": "Offline Case Creation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 557,
+      "group": "Advanced Mobile",
+      "title": "Offline Task Management",
+      "desc": "Offline Task Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 558,
+      "group": "Advanced Mobile",
+      "title": "Offline Search Cache",
+      "desc": "Offline Search Cache workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 559,
+      "group": "Advanced Mobile",
+      "title": "Background Upload",
+      "desc": "Background Upload workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 560,
+      "group": "Advanced Mobile",
+      "title": "Upload Resume",
+      "desc": "Upload Resume workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 561,
+      "group": "Advanced Mobile",
+      "title": "Network Quality Detection",
+      "desc": "Network Quality Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 562,
+      "group": "Advanced Mobile",
+      "title": "Battery-aware Sync",
+      "desc": "Battery-aware Sync workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 563,
+      "group": "Smart Notification",
+      "title": "Notification Priority",
+      "desc": "Notification Priority workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 564,
+      "group": "Smart Notification",
+      "title": "Notification Grouping",
+      "desc": "Notification Grouping workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 565,
+      "group": "Smart Notification",
+      "title": "Quiet Hours",
+      "desc": "Quiet Hours workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 566,
+      "group": "Smart Notification",
+      "title": "Digest Notification",
+      "desc": "Digest Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 567,
+      "group": "Smart Notification",
+      "title": "Escalation Notification",
+      "desc": "Escalation Notification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 568,
+      "group": "Smart Notification",
+      "title": "Notification Rules Builder",
+      "desc": "Notification Rules Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 569,
+      "group": "Smart Notification",
+      "title": "Notification Templates",
+      "desc": "Notification Templates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 570,
+      "group": "Smart Notification",
+      "title": "Per-user Notification Preferences",
+      "desc": "Per-user Notification Preferences workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 571,
+      "group": "Smart Notification",
+      "title": "Per-team Notification Preferences",
+      "desc": "Per-team Notification Preferences workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 572,
+      "group": "Smart Notification",
+      "title": "Notification Delivery Log",
+      "desc": "Notification Delivery Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 573,
+      "group": "Executive Dashboard",
+      "title": "Executive Overview",
+      "desc": "Executive Overview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 574,
+      "group": "Executive Dashboard",
+      "title": "KPI Cards",
+      "desc": "KPI Cards workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 575,
+      "group": "Executive Dashboard",
+      "title": "Organization Health Score",
+      "desc": "Organization Health Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 576,
+      "group": "Executive Dashboard",
+      "title": "Case Risk Overview",
+      "desc": "Case Risk Overview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 577,
+      "group": "Executive Dashboard",
+      "title": "SLA Overview",
+      "desc": "SLA Overview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 578,
+      "group": "Executive Dashboard",
+      "title": "Investigation Progress",
+      "desc": "Investigation Progress workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 579,
+      "group": "Executive Dashboard",
+      "title": "Resource Utilization",
+      "desc": "Resource Utilization workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 580,
+      "group": "Executive Dashboard",
+      "title": "Critical Cases Panel",
+      "desc": "Critical Cases Panel workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 581,
+      "group": "Executive Dashboard",
+      "title": "Recent Activity",
+      "desc": "Recent Activity workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 582,
+      "group": "Executive Dashboard",
+      "title": "Executive Export",
+      "desc": "Executive Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 583,
+      "group": "Personalization",
+      "title": "Custom Dashboard Layout",
+      "desc": "Custom Dashboard Layout workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 584,
+      "group": "Personalization",
+      "title": "Widget Reordering",
+      "desc": "Widget Reordering workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 585,
+      "group": "Personalization",
+      "title": "Custom Shortcuts",
+      "desc": "Custom Shortcuts workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 586,
+      "group": "Personalization",
+      "title": "Favorite Cases",
+      "desc": "Favorite Cases workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 587,
+      "group": "Personalization",
+      "title": "Favorite Evidence",
+      "desc": "Favorite Evidence workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 588,
+      "group": "Personalization",
+      "title": "Personal Workspace",
+      "desc": "Personal Workspace workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 589,
+      "group": "Personalization",
+      "title": "Recent Items",
+      "desc": "Recent Items workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 590,
+      "group": "Personalization",
+      "title": "Quick Actions",
+      "desc": "Quick Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 591,
+      "group": "Personalization",
+      "title": "Saved Views",
+      "desc": "Saved Views workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 592,
+      "group": "Personalization",
+      "title": "Custom Table Columns",
+      "desc": "Custom Table Columns workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 593,
+      "group": "Accessibility",
+      "title": "Screen Reader Optimization",
+      "desc": "Screen Reader Optimization workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 594,
+      "group": "Accessibility",
+      "title": "Keyboard-only Navigation",
+      "desc": "Keyboard-only Navigation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 595,
+      "group": "Accessibility",
+      "title": "Focus Management",
+      "desc": "Focus Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 596,
+      "group": "Accessibility",
+      "title": "High Contrast",
+      "desc": "High Contrast workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 597,
+      "group": "Accessibility",
+      "title": "Reduced Motion",
+      "desc": "Reduced Motion workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 598,
+      "group": "Accessibility",
+      "title": "Larger Touch Targets",
+      "desc": "Larger Touch Targets workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 599,
+      "group": "Accessibility",
+      "title": "Text Scaling",
+      "desc": "Text Scaling workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 600,
+      "group": "Accessibility",
+      "title": "Dyslexia-friendly option",
+      "desc": "Dyslexia-friendly option workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 601,
+      "group": "Accessibility",
+      "title": "Color-independent Status Indicators",
+      "desc": "Color-independent Status Indicators workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 602,
+      "group": "Accessibility",
+      "title": "Accessibility Audit",
+      "desc": "Accessibility Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 603,
+      "group": "Admin Tools",
+      "title": "Bulk User Actions",
+      "desc": "Bulk User Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 604,
+      "group": "Admin Tools",
+      "title": "Bulk Case Actions",
+      "desc": "Bulk Case Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 605,
+      "group": "Admin Tools",
+      "title": "Bulk Evidence Actions",
+      "desc": "Bulk Evidence Actions workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 606,
+      "group": "Admin Tools",
+      "title": "Bulk Tagging",
+      "desc": "Bulk Tagging workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 607,
+      "group": "Admin Tools",
+      "title": "Bulk Assignment",
+      "desc": "Bulk Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 608,
+      "group": "Admin Tools",
+      "title": "Bulk Status Update",
+      "desc": "Bulk Status Update workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 609,
+      "group": "Admin Tools",
+      "title": "Admin Impersonation with Audit",
+      "desc": "Admin Impersonation with Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 610,
+      "group": "Admin Tools",
+      "title": "Admin Emergency Access",
+      "desc": "Admin Emergency Access workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 611,
+      "group": "Admin Tools",
+      "title": "System-wide Search",
+      "desc": "System-wide Search workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 612,
+      "group": "Admin Tools",
+      "title": "Global Audit Viewer",
+      "desc": "Global Audit Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 613,
+      "group": "Admin Tools",
+      "title": "Configuration Backup",
+      "desc": "Configuration Backup workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 614,
+      "group": "Admin Tools",
+      "title": "Configuration Restore",
+      "desc": "Configuration Restore workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 615,
+      "group": "Admin Tools",
+      "title": "Configuration Change History",
+      "desc": "Configuration Change History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 616,
+      "group": "Enterprise-grade",
+      "title": "Single Sign-On",
+      "desc": "Single Sign-On workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 617,
+      "group": "Enterprise-grade",
+      "title": "SAML",
+      "desc": "SAML workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 618,
+      "group": "Enterprise-grade",
+      "title": "OpenID Connect",
+      "desc": "OpenID Connect workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 619,
+      "group": "Enterprise-grade",
+      "title": "Enterprise Directory Integration",
+      "desc": "Enterprise Directory Integration workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 620,
+      "group": "Enterprise-grade",
+      "title": "SCIM User Provisioning",
+      "desc": "SCIM User Provisioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 621,
+      "group": "Enterprise-grade",
+      "title": "Enterprise Audit Export",
+      "desc": "Enterprise Audit Export workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 622,
+      "group": "Enterprise-grade",
+      "title": "Data Residency Controls",
+      "desc": "Data Residency Controls workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 623,
+      "group": "Enterprise-grade",
+      "title": "Regional Data Isolation",
+      "desc": "Regional Data Isolation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 624,
+      "group": "Enterprise-grade",
+      "title": "Encryption Key Management",
+      "desc": "Encryption Key Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 625,
+      "group": "Enterprise-grade",
+      "title": "Key Rotation",
+      "desc": "Key Rotation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 626,
+      "group": "Enterprise-grade",
+      "title": "Secrets Management",
+      "desc": "Secrets Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 627,
+      "group": "Enterprise-grade",
+      "title": "Zero-trust Access Rules",
+      "desc": "Zero-trust Access Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 628,
+      "group": "Organization Intelligence",
+      "title": "Organization Risk Profile",
+      "desc": "Organization Risk Profile workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 629,
+      "group": "Organization Intelligence",
+      "title": "Department Risk Score",
+      "desc": "Department Risk Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 630,
+      "group": "Organization Intelligence",
+      "title": "Cross-department Analytics",
+      "desc": "Cross-department Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 631,
+      "group": "Organization Intelligence",
+      "title": "Organizational Activity Map",
+      "desc": "Organizational Activity Map workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 632,
+      "group": "Organization Intelligence",
+      "title": "Organizational Hierarchy Graph",
+      "desc": "Organizational Hierarchy Graph workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 633,
+      "group": "Organization Intelligence",
+      "title": "Department Benchmarking",
+      "desc": "Department Benchmarking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 634,
+      "group": "Organization Intelligence",
+      "title": "Team Capacity Forecast",
+      "desc": "Team Capacity Forecast workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 635,
+      "group": "Organization Intelligence",
+      "title": "Resource Allocation Optimizer",
+      "desc": "Resource Allocation Optimizer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 636,
+      "group": "Case Intelligence",
+      "title": "Case Health Score",
+      "desc": "Case Health Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 637,
+      "group": "Case Intelligence",
+      "title": "Case Completeness Score",
+      "desc": "Case Completeness Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 638,
+      "group": "Case Intelligence",
+      "title": "Case Readiness Check",
+      "desc": "Case Readiness Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 639,
+      "group": "Case Intelligence",
+      "title": "Case Quality Score",
+      "desc": "Case Quality Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 640,
+      "group": "Case Intelligence",
+      "title": "Case Complexity Score",
+      "desc": "Case Complexity Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 641,
+      "group": "Case Intelligence",
+      "title": "Case Aging Analysis",
+      "desc": "Case Aging Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 642,
+      "group": "Case Intelligence",
+      "title": "Case Bottleneck Finder",
+      "desc": "Case Bottleneck Finder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 643,
+      "group": "Case Intelligence",
+      "title": "Case Dependency Detector",
+      "desc": "Case Dependency Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 644,
+      "group": "Case Intelligence",
+      "title": "Case Conflict Detector",
+      "desc": "Case Conflict Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 645,
+      "group": "Case Intelligence",
+      "title": "Case Relevance Score",
+      "desc": "Case Relevance Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 646,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Completeness Score",
+      "desc": "Evidence Completeness Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 647,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Reliability Rating",
+      "desc": "Evidence Reliability Rating workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 648,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Relevance Rating",
+      "desc": "Evidence Relevance Rating workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 649,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Conflict Detection",
+      "desc": "Evidence Conflict Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 650,
+      "group": "Evidence Intelligence",
+      "title": "Missing Evidence Detector",
+      "desc": "Missing Evidence Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 651,
+      "group": "Evidence Intelligence",
+      "title": "Unsupported Finding Detector",
+      "desc": "Unsupported Finding Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 652,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Dependency Map",
+      "desc": "Evidence Dependency Map workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 653,
+      "group": "Evidence Intelligence",
+      "title": "Evidence Coverage Matrix",
+      "desc": "Evidence Coverage Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 654,
+      "group": "Evidence Intelligence",
+      "title": "Evidence-to-Finding Matrix",
+      "desc": "Evidence-to-Finding Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 655,
+      "group": "Evidence Intelligence",
+      "title": "Evidence-to-Case Matrix",
+      "desc": "Evidence-to-Case Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 656,
+      "group": "Review Intelligence",
+      "title": "Reviewer Workload Balancer",
+      "desc": "Reviewer Workload Balancer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 657,
+      "group": "Review Intelligence",
+      "title": "Reviewer Conflict Detection",
+      "desc": "Reviewer Conflict Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 658,
+      "group": "Review Intelligence",
+      "title": "Review Quality Analytics",
+      "desc": "Review Quality Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 659,
+      "group": "Review Intelligence",
+      "title": "Review Consistency Check",
+      "desc": "Review Consistency Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 660,
+      "group": "Review Intelligence",
+      "title": "Second-opinion Workflow",
+      "desc": "Second-opinion Workflow workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 661,
+      "group": "Review Intelligence",
+      "title": "Mandatory Review Rules",
+      "desc": "Mandatory Review Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 662,
+      "group": "Review Intelligence",
+      "title": "Randomized Review Assignment",
+      "desc": "Randomized Review Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 663,
+      "group": "Review Intelligence",
+      "title": "Review Escalation Matrix",
+      "desc": "Review Escalation Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 664,
+      "group": "Review Intelligence",
+      "title": "Review SLA Monitor",
+      "desc": "Review SLA Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 665,
+      "group": "Review Intelligence",
+      "title": "Review Completion Prediction",
+      "desc": "Review Completion Prediction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 666,
+      "group": "Advanced Relationship Engine",
+      "title": "Relationship Strength Scoring",
+      "desc": "Relationship Strength Scoring workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 667,
+      "group": "Advanced Relationship Engine",
+      "title": "Temporal Relationship Analysis",
+      "desc": "Temporal Relationship Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 668,
+      "group": "Advanced Relationship Engine",
+      "title": "Location Relationship Analysis",
+      "desc": "Location Relationship Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 669,
+      "group": "Advanced Relationship Engine",
+      "title": "Evidence Relationship Analysis",
+      "desc": "Evidence Relationship Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 670,
+      "group": "Advanced Relationship Engine",
+      "title": "Case Relationship Analysis",
+      "desc": "Case Relationship Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 671,
+      "group": "Advanced Relationship Engine",
+      "title": "Entity Relationship Timeline",
+      "desc": "Entity Relationship Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 672,
+      "group": "Advanced Relationship Engine",
+      "title": "Relationship Change Detection",
+      "desc": "Relationship Change Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 673,
+      "group": "Advanced Relationship Engine",
+      "title": "Relationship Conflict Detection",
+      "desc": "Relationship Conflict Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 674,
+      "group": "Advanced Relationship Engine",
+      "title": "Relationship Confidence Score",
+      "desc": "Relationship Confidence Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 675,
+      "group": "Advanced Relationship Engine",
+      "title": "Relationship Graph Snapshots",
+      "desc": "Relationship Graph Snapshots workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 676,
+      "group": "Historical Intelligence",
+      "title": "Case State Snapshots",
+      "desc": "Case State Snapshots workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 677,
+      "group": "Historical Intelligence",
+      "title": "Evidence State Snapshots",
+      "desc": "Evidence State Snapshots workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 678,
+      "group": "Historical Intelligence",
+      "title": "User Activity Snapshots",
+      "desc": "User Activity Snapshots workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 679,
+      "group": "Historical Intelligence",
+      "title": "Historical Dashboard",
+      "desc": "Historical Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 680,
+      "group": "Historical Intelligence",
+      "title": "Historical Comparison",
+      "desc": "Historical Comparison workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 681,
+      "group": "Historical Intelligence",
+      "title": "Before/After Analysis",
+      "desc": "Before/After Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 682,
+      "group": "Historical Intelligence",
+      "title": "Change Timeline",
+      "desc": "Change Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 683,
+      "group": "Historical Intelligence",
+      "title": "Configuration Timeline",
+      "desc": "Configuration Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 684,
+      "group": "Historical Intelligence",
+      "title": "Historical Permission Viewer",
+      "desc": "Historical Permission Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 685,
+      "group": "Historical Intelligence",
+      "title": "Historical Workflow Viewer",
+      "desc": "Historical Workflow Viewer workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 686,
+      "group": "Decision Support",
+      "title": "Decision Matrix",
+      "desc": "Decision Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 687,
+      "group": "Decision Support",
+      "title": "Risk-based Decision Support",
+      "desc": "Risk-based Decision Support workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 688,
+      "group": "Decision Support",
+      "title": "Priority Recommendation",
+      "desc": "Priority Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 689,
+      "group": "Decision Support",
+      "title": "Escalation Recommendation",
+      "desc": "Escalation Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 690,
+      "group": "Decision Support",
+      "title": "Reviewer Recommendation",
+      "desc": "Reviewer Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 691,
+      "group": "Decision Support",
+      "title": "Assignment Recommendation",
+      "desc": "Assignment Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 692,
+      "group": "Decision Support",
+      "title": "Next-action Recommendation",
+      "desc": "Next-action Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 693,
+      "group": "Decision Support",
+      "title": "Deadline Risk Prediction",
+      "desc": "Deadline Risk Prediction workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 694,
+      "group": "Decision Support",
+      "title": "Resource Recommendation",
+      "desc": "Resource Recommendation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 695,
+      "group": "Decision Support",
+      "title": "Decision Explanation Log",
+      "desc": "Decision Explanation Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 696,
+      "group": "Advanced Security Intelligence",
+      "title": "Behavioral Login Analysis",
+      "desc": "Behavioral Login Analysis workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 697,
+      "group": "Advanced Security Intelligence",
+      "title": "Abnormal Access Detection",
+      "desc": "Abnormal Access Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 698,
+      "group": "Advanced Security Intelligence",
+      "title": "Unusual Download Detection",
+      "desc": "Unusual Download Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 699,
+      "group": "Advanced Security Intelligence",
+      "title": "Unusual Evidence Access Detection",
+      "desc": "Unusual Evidence Access Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 700,
+      "group": "Advanced Security Intelligence",
+      "title": "Privilege Escalation Detection",
+      "desc": "Privilege Escalation Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 701,
+      "group": "Advanced Security Intelligence",
+      "title": "Permission Drift Detection",
+      "desc": "Permission Drift Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 702,
+      "group": "Advanced Security Intelligence",
+      "title": "Dormant Account Detection",
+      "desc": "Dormant Account Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 703,
+      "group": "Advanced Security Intelligence",
+      "title": "Excessive Permission Detection",
+      "desc": "Excessive Permission Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 704,
+      "group": "Advanced Security Intelligence",
+      "title": "Suspicious Bulk Export Detection",
+      "desc": "Suspicious Bulk Export Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 705,
+      "group": "Advanced Security Intelligence",
+      "title": "Security Risk Timeline",
+      "desc": "Security Risk Timeline workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 706,
+      "group": "Data Integrity",
+      "title": "Record Integrity Monitor",
+      "desc": "Record Integrity Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 707,
+      "group": "Data Integrity",
+      "title": "Cross-record Consistency Check",
+      "desc": "Cross-record Consistency Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 708,
+      "group": "Data Integrity",
+      "title": "Referential Integrity Check",
+      "desc": "Referential Integrity Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 709,
+      "group": "Data Integrity",
+      "title": "Broken Relationship Detector",
+      "desc": "Broken Relationship Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 710,
+      "group": "Data Integrity",
+      "title": "Orphan Record Detector",
+      "desc": "Orphan Record Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 711,
+      "group": "Data Integrity",
+      "title": "Metadata Consistency Check",
+      "desc": "Metadata Consistency Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 712,
+      "group": "Data Integrity",
+      "title": "Timestamp Consistency Check",
+      "desc": "Timestamp Consistency Check workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 713,
+      "group": "Data Integrity",
+      "title": "Duplicate Record Detector",
+      "desc": "Duplicate Record Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 714,
+      "group": "Data Integrity",
+      "title": "Data Anomaly Report",
+      "desc": "Data Anomaly Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 715,
+      "group": "Data Integrity",
+      "title": "Integrity Dashboard",
+      "desc": "Integrity Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 716,
+      "group": "Data Quality",
+      "title": "Data Completeness Score",
+      "desc": "Data Completeness Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 717,
+      "group": "Data Quality",
+      "title": "Data Accuracy Review",
+      "desc": "Data Accuracy Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 718,
+      "group": "Data Quality",
+      "title": "Invalid Data Detection",
+      "desc": "Invalid Data Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 719,
+      "group": "Data Quality",
+      "title": "Missing Field Report",
+      "desc": "Missing Field Report workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 720,
+      "group": "Data Quality",
+      "title": "Stale Data Detection",
+      "desc": "Stale Data Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 721,
+      "group": "Data Quality",
+      "title": "Inconsistent Category Detection",
+      "desc": "Inconsistent Category Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 722,
+      "group": "Data Quality",
+      "title": "Invalid Location Detection",
+      "desc": "Invalid Location Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 723,
+      "group": "Data Quality",
+      "title": "Invalid Date Detection",
+      "desc": "Invalid Date Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 724,
+      "group": "Data Quality",
+      "title": "Duplicate Entity Detection",
+      "desc": "Duplicate Entity Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 725,
+      "group": "Data Quality",
+      "title": "Data Quality Dashboard",
+      "desc": "Data Quality Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 726,
+      "group": "Knowledge Management",
+      "title": "Knowledge Base",
+      "desc": "Knowledge Base workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 727,
+      "group": "Knowledge Management",
+      "title": "Case Knowledge Library",
+      "desc": "Case Knowledge Library workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 728,
+      "group": "Knowledge Management",
+      "title": "Evidence Knowledge Library",
+      "desc": "Evidence Knowledge Library workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 729,
+      "group": "Knowledge Management",
+      "title": "Investigation Templates",
+      "desc": "Investigation Templates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 730,
+      "group": "Knowledge Management",
+      "title": "Best Practice Library",
+      "desc": "Best Practice Library workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 731,
+      "group": "Knowledge Management",
+      "title": "Internal Guidelines",
+      "desc": "Internal Guidelines workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 732,
+      "group": "Knowledge Management",
+      "title": "Standard Operating Procedures",
+      "desc": "Standard Operating Procedures workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 733,
+      "group": "Knowledge Management",
+      "title": "FAQ Knowledge Base",
+      "desc": "FAQ Knowledge Base workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 734,
+      "group": "Knowledge Management",
+      "title": "Searchable Policy Library",
+      "desc": "Searchable Policy Library workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 735,
+      "group": "Knowledge Management",
+      "title": "Knowledge Version History",
+      "desc": "Knowledge Version History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 736,
+      "group": "Training",
+      "title": "Training Center",
+      "desc": "Training Center workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 737,
+      "group": "Training",
+      "title": "Interactive Tutorials",
+      "desc": "Interactive Tutorials workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 738,
+      "group": "Training",
+      "title": "User Onboarding Wizard",
+      "desc": "User Onboarding Wizard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 739,
+      "group": "Training",
+      "title": "Admin Training Mode",
+      "desc": "Admin Training Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 740,
+      "group": "Training",
+      "title": "Investigator Training Mode",
+      "desc": "Investigator Training Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 741,
+      "group": "Training",
+      "title": "Evidence Handling Training",
+      "desc": "Evidence Handling Training workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 742,
+      "group": "Training",
+      "title": "Security Awareness Training",
+      "desc": "Security Awareness Training workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 743,
+      "group": "Training",
+      "title": "Training Completion Tracking",
+      "desc": "Training Completion Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 744,
+      "group": "Training",
+      "title": "Training Certificates",
+      "desc": "Training Certificates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 745,
+      "group": "Training",
+      "title": "Training Analytics",
+      "desc": "Training Analytics workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 746,
+      "group": "Simulation / Sandbox",
+      "title": "Investigation Sandbox",
+      "desc": "Investigation Sandbox workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 747,
+      "group": "Simulation / Sandbox",
+      "title": "Workflow Simulation",
+      "desc": "Workflow Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 748,
+      "group": "Simulation / Sandbox",
+      "title": "Case Simulation",
+      "desc": "Case Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 749,
+      "group": "Simulation / Sandbox",
+      "title": "Approval Simulation",
+      "desc": "Approval Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 750,
+      "group": "Simulation / Sandbox",
+      "title": "Permission Simulation",
+      "desc": "Permission Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 751,
+      "group": "Simulation / Sandbox",
+      "title": "Security Incident Simulation",
+      "desc": "Security Incident Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 752,
+      "group": "Simulation / Sandbox",
+      "title": "Disaster Recovery Simulation",
+      "desc": "Disaster Recovery Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 753,
+      "group": "Simulation / Sandbox",
+      "title": "Data Migration Simulation",
+      "desc": "Data Migration Simulation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 754,
+      "group": "Simulation / Sandbox",
+      "title": "AI Output Testing Sandbox",
+      "desc": "AI Output Testing Sandbox workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 755,
+      "group": "Simulation / Sandbox",
+      "title": "Demo Mode",
+      "desc": "Demo Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 756,
+      "group": "Real-time Collaboration",
+      "title": "Live Case Presence",
+      "desc": "Live Case Presence workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 757,
+      "group": "Real-time Collaboration",
+      "title": "Live Editing Indicators",
+      "desc": "Live Editing Indicators workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 758,
+      "group": "Real-time Collaboration",
+      "title": "Concurrent Editing Protection",
+      "desc": "Concurrent Editing Protection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 759,
+      "group": "Real-time Collaboration",
+      "title": "Real-time Comments",
+      "desc": "Real-time Comments workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 760,
+      "group": "Real-time Collaboration",
+      "title": "Real-time Assignment Updates",
+      "desc": "Real-time Assignment Updates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 761,
+      "group": "Real-time Collaboration",
+      "title": "Real-time Evidence Updates",
+      "desc": "Real-time Evidence Updates workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 762,
+      "group": "Real-time Collaboration",
+      "title": "Live Activity Feed",
+      "desc": "Live Activity Feed workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 763,
+      "group": "Real-time Collaboration",
+      "title": "Collaboration Presence",
+      "desc": "Collaboration Presence workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 764,
+      "group": "Real-time Collaboration",
+      "title": "Team Availability Status",
+      "desc": "Team Availability Status workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 765,
+      "group": "Real-time Collaboration",
+      "title": "Live Dashboard Refresh",
+      "desc": "Live Dashboard Refresh workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 766,
+      "group": "Physical Evidence / Asset",
+      "title": "Physical Evidence Register",
+      "desc": "Physical Evidence Register workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 767,
+      "group": "Physical Evidence / Asset",
+      "title": "Asset ID",
+      "desc": "Asset ID workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 768,
+      "group": "Physical Evidence / Asset",
+      "title": "Barcode-based Tracking",
+      "desc": "Barcode-based Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 769,
+      "group": "Physical Evidence / Asset",
+      "title": "QR-based Tracking",
+      "desc": "QR-based Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 770,
+      "group": "Physical Evidence / Asset",
+      "title": "Storage Location Tracking",
+      "desc": "Storage Location Tracking workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 771,
+      "group": "Physical Evidence / Asset",
+      "title": "Custodian Assignment",
+      "desc": "Custodian Assignment workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 772,
+      "group": "Physical Evidence / Asset",
+      "title": "Physical Transfer Log",
+      "desc": "Physical Transfer Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 773,
+      "group": "Physical Evidence / Asset",
+      "title": "Storage Condition Log",
+      "desc": "Storage Condition Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 774,
+      "group": "Physical Evidence / Asset",
+      "title": "Physical Inventory",
+      "desc": "Physical Inventory workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 775,
+      "group": "Physical Evidence / Asset",
+      "title": "Inventory Audit",
+      "desc": "Inventory Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 776,
+      "group": "Advanced Classification",
+      "title": "Classification Rules Engine",
+      "desc": "Classification Rules Engine workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 777,
+      "group": "Advanced Classification",
+      "title": "Automatic Classification",
+      "desc": "Automatic Classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 778,
+      "group": "Advanced Classification",
+      "title": "Confidentiality Auto-labeling",
+      "desc": "Confidentiality Auto-labeling workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 779,
+      "group": "Advanced Classification",
+      "title": "Retention Auto-labeling",
+      "desc": "Retention Auto-labeling workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 780,
+      "group": "Advanced Classification",
+      "title": "Evidence Type Auto-classification",
+      "desc": "Evidence Type Auto-classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 781,
+      "group": "Advanced Classification",
+      "title": "Case Type Auto-classification",
+      "desc": "Case Type Auto-classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 782,
+      "group": "Advanced Classification",
+      "title": "Risk-based Classification",
+      "desc": "Risk-based Classification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 783,
+      "group": "Advanced Classification",
+      "title": "Classification Review Queue",
+      "desc": "Classification Review Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 784,
+      "group": "Advanced Classification",
+      "title": "Classification History",
+      "desc": "Classification History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 785,
+      "group": "Advanced Classification",
+      "title": "Classification Audit",
+      "desc": "Classification Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 786,
+      "group": "Legal / Policy Workflow",
+      "title": "Legal Review Queue",
+      "desc": "Legal Review Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 787,
+      "group": "Legal / Policy Workflow",
+      "title": "Policy Review Queue",
+      "desc": "Policy Review Queue workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 788,
+      "group": "Legal / Policy Workflow",
+      "title": "Disclosure Review",
+      "desc": "Disclosure Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 789,
+      "group": "Legal / Policy Workflow",
+      "title": "Redaction Workflow",
+      "desc": "Redaction Workflow workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 790,
+      "group": "Legal / Policy Workflow",
+      "title": "Redaction Preview",
+      "desc": "Redaction Preview workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 791,
+      "group": "Legal / Policy Workflow",
+      "title": "Sensitive Information Detector",
+      "desc": "Sensitive Information Detector workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 792,
+      "group": "Legal / Policy Workflow",
+      "title": "Document Release Approval",
+      "desc": "Document Release Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 793,
+      "group": "Legal / Policy Workflow",
+      "title": "Release History",
+      "desc": "Release History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 794,
+      "group": "Legal / Policy Workflow",
+      "title": "Disclosure Audit",
+      "desc": "Disclosure Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 795,
+      "group": "Legal / Policy Workflow",
+      "title": "Legal Hold Management",
+      "desc": "Legal Hold Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 796,
+      "group": "Controlled Sharing",
+      "title": "Secure Share Link",
+      "desc": "Secure Share Link workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 797,
+      "group": "Controlled Sharing",
+      "title": "Expiring Share Link",
+      "desc": "Expiring Share Link workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 798,
+      "group": "Controlled Sharing",
+      "title": "Password-protected Share",
+      "desc": "Password-protected Share workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 799,
+      "group": "Controlled Sharing",
+      "title": "View-only Share",
+      "desc": "View-only Share workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 800,
+      "group": "Controlled Sharing",
+      "title": "Download-disabled Share",
+      "desc": "Download-disabled Share workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 801,
+      "group": "Controlled Sharing",
+      "title": "Watermarked Share",
+      "desc": "Watermarked Share workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 802,
+      "group": "Controlled Sharing",
+      "title": "Recipient Verification",
+      "desc": "Recipient Verification workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 803,
+      "group": "Controlled Sharing",
+      "title": "Share Access Log",
+      "desc": "Share Access Log workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 804,
+      "group": "Controlled Sharing",
+      "title": "Share Revocation",
+      "desc": "Share Revocation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 805,
+      "group": "Controlled Sharing",
+      "title": "External Recipient Audit",
+      "desc": "External Recipient Audit workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 806,
+      "group": "Monitoring",
+      "title": "Real-time Operations Monitor",
+      "desc": "Real-time Operations Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 807,
+      "group": "Monitoring",
+      "title": "Critical Case Monitor",
+      "desc": "Critical Case Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 808,
+      "group": "Monitoring",
+      "title": "SLA Breach Monitor",
+      "desc": "SLA Breach Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 809,
+      "group": "Monitoring",
+      "title": "Evidence Integrity Monitor",
+      "desc": "Evidence Integrity Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 810,
+      "group": "Monitoring",
+      "title": "Security Event Monitor",
+      "desc": "Security Event Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 811,
+      "group": "Monitoring",
+      "title": "Failed Integration Monitor",
+      "desc": "Failed Integration Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 812,
+      "group": "Monitoring",
+      "title": "API Error Monitor",
+      "desc": "API Error Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 813,
+      "group": "Monitoring",
+      "title": "Storage Threshold Monitor",
+      "desc": "Storage Threshold Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 814,
+      "group": "Monitoring",
+      "title": "Backup Monitor",
+      "desc": "Backup Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 815,
+      "group": "Monitoring",
+      "title": "System Capacity Monitor",
+      "desc": "System Capacity Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 816,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Drift Detection",
+      "desc": "Configuration Drift Detection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 817,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Validation",
+      "desc": "Configuration Validation workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 818,
+      "group": "Configuration Intelligence",
+      "title": "Invalid Configuration Warning",
+      "desc": "Invalid Configuration Warning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 819,
+      "group": "Configuration Intelligence",
+      "title": "Dependency Checker",
+      "desc": "Dependency Checker workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 820,
+      "group": "Configuration Intelligence",
+      "title": "Feature Compatibility Checker",
+      "desc": "Feature Compatibility Checker workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 821,
+      "group": "Configuration Intelligence",
+      "title": "Integration Health Matrix",
+      "desc": "Integration Health Matrix workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 822,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Snapshot",
+      "desc": "Configuration Snapshot workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 823,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Compare",
+      "desc": "Configuration Compare workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 824,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Rollback",
+      "desc": "Configuration Rollback workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 825,
+      "group": "Configuration Intelligence",
+      "title": "Configuration Approval",
+      "desc": "Configuration Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 826,
+      "group": "AI Governance",
+      "title": "AI Usage Dashboard",
+      "desc": "AI Usage Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 827,
+      "group": "AI Governance",
+      "title": "AI Request History",
+      "desc": "AI Request History workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 828,
+      "group": "AI Governance",
+      "title": "AI Output Review",
+      "desc": "AI Output Review workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 829,
+      "group": "AI Governance",
+      "title": "AI Confidence Score",
+      "desc": "AI Confidence Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 830,
+      "group": "AI Governance",
+      "title": "AI Source Traceability",
+      "desc": "AI Source Traceability workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 831,
+      "group": "AI Governance",
+      "title": "AI Human Approval",
+      "desc": "AI Human Approval workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 832,
+      "group": "AI Governance",
+      "title": "AI Prompt Management",
+      "desc": "AI Prompt Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 833,
+      "group": "AI Governance",
+      "title": "AI Model Selection",
+      "desc": "AI Model Selection workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 834,
+      "group": "AI Governance",
+      "title": "AI Model Versioning",
+      "desc": "AI Model Versioning workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 835,
+      "group": "AI Governance",
+      "title": "AI Audit Trail",
+      "desc": "AI Audit Trail workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 836,
+      "group": "Localization / Regionalization",
+      "title": "Regional Settings",
+      "desc": "Regional Settings workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 837,
+      "group": "Localization / Regionalization",
+      "title": "Timezone Management",
+      "desc": "Timezone Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 838,
+      "group": "Localization / Regionalization",
+      "title": "Local Holiday Calendar",
+      "desc": "Local Holiday Calendar workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 839,
+      "group": "Localization / Regionalization",
+      "title": "Regional Number Format",
+      "desc": "Regional Number Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 840,
+      "group": "Localization / Regionalization",
+      "title": "Regional Address Format",
+      "desc": "Regional Address Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 841,
+      "group": "Localization / Regionalization",
+      "title": "Regional Phone Format",
+      "desc": "Regional Phone Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 842,
+      "group": "Localization / Regionalization",
+      "title": "Regional Document Format",
+      "desc": "Regional Document Format workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 843,
+      "group": "Localization / Regionalization",
+      "title": "Custom Date Rules",
+      "desc": "Custom Date Rules workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 844,
+      "group": "Localization / Regionalization",
+      "title": "Localization QA",
+      "desc": "Localization QA workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 845,
+      "group": "Localization / Regionalization",
+      "title": "Translation Coverage Dashboard",
+      "desc": "Translation Coverage Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 846,
+      "group": "Self-Service Admin",
+      "title": "No-code Settings Editor",
+      "desc": "No-code Settings Editor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 847,
+      "group": "Self-Service Admin",
+      "title": "Custom Field Manager",
+      "desc": "Custom Field Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 848,
+      "group": "Self-Service Admin",
+      "title": "Custom Status Manager",
+      "desc": "Custom Status Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 849,
+      "group": "Self-Service Admin",
+      "title": "Custom Workflow Manager",
+      "desc": "Custom Workflow Manager workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 850,
+      "group": "Self-Service Admin",
+      "title": "Custom Notification Builder",
+      "desc": "Custom Notification Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 851,
+      "group": "Self-Service Admin",
+      "title": "Custom Dashboard Builder",
+      "desc": "Custom Dashboard Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 852,
+      "group": "Self-Service Admin",
+      "title": "Custom Report Builder",
+      "desc": "Custom Report Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 853,
+      "group": "Self-Service Admin",
+      "title": "Custom Role Builder",
+      "desc": "Custom Role Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 854,
+      "group": "Self-Service Admin",
+      "title": "Custom Form Builder",
+      "desc": "Custom Form Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 855,
+      "group": "Self-Service Admin",
+      "title": "Custom Rule Builder",
+      "desc": "Custom Rule Builder workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 856,
+      "group": "Governance Dashboard",
+      "title": "Governance Score",
+      "desc": "Governance Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 857,
+      "group": "Governance Dashboard",
+      "title": "Security Score",
+      "desc": "Security Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 858,
+      "group": "Governance Dashboard",
+      "title": "Compliance Score",
+      "desc": "Compliance Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 859,
+      "group": "Governance Dashboard",
+      "title": "Data Quality Score",
+      "desc": "Data Quality Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 860,
+      "group": "Governance Dashboard",
+      "title": "Evidence Integrity Score",
+      "desc": "Evidence Integrity Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 861,
+      "group": "Governance Dashboard",
+      "title": "Workflow Efficiency Score",
+      "desc": "Workflow Efficiency Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 862,
+      "group": "Governance Dashboard",
+      "title": "Team Efficiency Score",
+      "desc": "Team Efficiency Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 863,
+      "group": "Governance Dashboard",
+      "title": "System Reliability Score",
+      "desc": "System Reliability Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 864,
+      "group": "Governance Dashboard",
+      "title": "Overall Platform Health Score",
+      "desc": "Overall Platform Health Score workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 865,
+      "group": "Governance Dashboard",
+      "title": "Governance Trend",
+      "desc": "Governance Trend workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 866,
+      "group": "Future-ready",
+      "title": "Multi-instance Management",
+      "desc": "Multi-instance Management workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 867,
+      "group": "Future-ready",
+      "title": "Regional Failover",
+      "desc": "Regional Failover workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 868,
+      "group": "Future-ready",
+      "title": "High-availability Mode",
+      "desc": "High-availability Mode workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 869,
+      "group": "Future-ready",
+      "title": "Read Replica Monitoring",
+      "desc": "Read Replica Monitoring workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 870,
+      "group": "Future-ready",
+      "title": "Queue Failover",
+      "desc": "Queue Failover workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 871,
+      "group": "Future-ready",
+      "title": "Service Failover",
+      "desc": "Service Failover workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 872,
+      "group": "Future-ready",
+      "title": "Disaster Recovery Dashboard",
+      "desc": "Disaster Recovery Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 873,
+      "group": "Future-ready",
+      "title": "Business Continuity Dashboard",
+      "desc": "Business Continuity Dashboard workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 874,
+      "group": "Future-ready",
+      "title": "Recovery Point Monitor",
+      "desc": "Recovery Point Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    },
+    {
+      "id": 875,
+      "group": "Future-ready",
+      "title": "Recovery Time Monitor",
+      "desc": "Recovery Time Monitor workspace and configuration surface for PROOF Portal.",
+      "state": "ready"
+    }
+  ]
+}

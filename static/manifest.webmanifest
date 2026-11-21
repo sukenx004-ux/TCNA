@@ -1,0 +1,11 @@
+{
+  "name":"PROOF Accountability Portal",
+  "short_name":"PROOF",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#0a0e17",
+  "theme_color":"#f39e0d",
+  "orientation":"portrait-primary",
+  "icons":[{"src":"/static/icons/proof.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
